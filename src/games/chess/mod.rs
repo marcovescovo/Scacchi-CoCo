@@ -4,7 +4,6 @@ mod board;
 mod chess_move;
 mod builder;
 mod instance;
-//mod logic;
 
 use crate::game::Builder;
 

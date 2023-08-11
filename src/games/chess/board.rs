@@ -1,7 +1,8 @@
+// Import necessary modules
 use super::color::Color;
 use super::chess_move::{MoveType, Move, Point};
-//use std::num::SignedInt;
 
+// Define the possible chess pieces
 #[derive(Copy, Clone, PartialEq)]
 pub enum Piece{
 	Pawn,
@@ -12,7 +13,9 @@ pub enum Piece{
 	King,
 }
 
+// Implementation for the Piece enum
 impl Piece{
+	// Parse a string representation of a piece and return the corresponding enum value
 	pub fn parse(input: &str) -> Option<Piece>{
 		match input{
 			"pawn" =>   Some(Piece::Pawn),
@@ -26,24 +29,25 @@ impl Piece{
 	}
 }
 
+// Define the possible states of a chess tile (empty or containing a piece)
 #[derive(Clone, Copy, PartialEq)]
 pub enum Tile{
 	Empty,
 	Piece(Piece, Color),
 }
 
+// Implementation for the Tile enum
 impl Tile{
+	// Return a display string for the tile
 	pub fn display(&self) -> &str{
 		match *self{
 			Tile::Empty => "  ",
-			
 			Tile::Piece(Piece::Pawn,	Color::White) => " P",
 			Tile::Piece(Piece::Rook,	Color::White) => " R",
 			Tile::Piece(Piece::Knight,	Color::White) => " N",
 			Tile::Piece(Piece::Bishop, 	Color::White) => " B",
 			Tile::Piece(Piece::Queen, 	Color::White) => " Q",
 			Tile::Piece(Piece::King, 	Color::White) => " K",
-			
 			Tile::Piece(Piece::Pawn,	Color::Black) => " p",
 			Tile::Piece(Piece::Rook,	Color::Black) => " r",
 			Tile::Piece(Piece::Knight,	Color::Black) => " n",
@@ -53,6 +57,7 @@ impl Tile{
 		}
 	}
 	
+	// Return the color of the piece on the tile, if any
 	fn color(&self) -> Option<Color>{
 		match *self{
 			Tile::Piece(_, c) => Some(c),
@@ -61,14 +66,18 @@ impl Tile{
 	}
 }
 
+// Structure to represent the chess board
 #[derive(Clone)]
 pub struct ChessBoard{
 	board: [[Tile; 8]; 8],
 	moves: Vec<Move>,
 }
 
+// Implementation for the ChessBoard struct
 impl ChessBoard{
+	// Create a new instance of the ChessBoard with initial positions
 	pub fn new() -> ChessBoard{
+		// Initialize the board with the starting positions of pieces
 		ChessBoard{
 			board: [
 				[
@@ -101,11 +110,13 @@ impl ChessBoard{
 			moves: vec![],
 		}
 	}
-	
+
+	// Get the tile at a given position on the board
 	fn tile_at(&self, p: Point) -> Tile{
 		self.board[p.y][p.x]
 	}
-	
+
+	// Display the current state of the chess board
 	pub fn display(&self){
 		println!(" | A| B| C| D| E| F| G| H|");
 		println!("---------------------------");
@@ -119,7 +130,8 @@ impl ChessBoard{
 		}
 		println!(" | A| B| C| D| E| F| G| H|");
 	}
-	
+
+	// Check if a move is valid for a given color
 	pub fn check_move(&self, opt: Option<MoveType>, color: Color) -> bool{
 		match opt{
 			None => false,
@@ -131,7 +143,8 @@ impl ChessBoard{
 			}) && !self.apply_move_type(mvt).check_king_check(color)
 		}
 	}
-	
+
+	// Check if an en passant move is valid for a given color
 	fn check_enpassant(&self, mv: Move, color: Color) -> bool{
 		self.tile_at(mv.from) == Tile::Piece(Piece::Pawn, color) &&
 		self.tile_at(mv.to) == Tile::Empty && 
@@ -142,14 +155,16 @@ impl ChessBoard{
 				&& self.moves[self.moves.len() - 1] == Move{from:Point{x:mv.to.x,y:1},to:Point{x:mv.to.x,y:3}},
 		}
 	}
-	
+
+	// Check if a promotion move is valid for a given color and piece
 	fn check_promotion(&self, mv: Move, color: Color, piece: Piece) -> bool{
 		self.tile_at(mv.from) == Tile::Piece(Piece::Pawn, color) && match piece{
 			Piece::Rook|Piece::Knight|Piece::Bishop|Piece::Queen => true,
 			_ => false,
 		} && self.check_pawn_move(mv, color, true)
 	}
-	
+
+	// Check if a castling move is valid for a given color
 	fn check_castling(&self, mvk: Move, mvr: Move, color: Color) -> bool{
 		self.tile_at(mvk.from) == Tile::Piece(Piece::King, color) &&
 		self.tile_at(mvr.from) == Tile::Piece(Piece::Rook, color) &&
@@ -162,11 +177,13 @@ impl ChessBoard{
 		}).check_king_check(color) &&
 		!self.apply_move_type(MoveType::Basic(mvk)).check_king_check(color)
 	}
-	
+
+	// Check if a position has no moves associated with it
 	fn check_no_moves(&self, p: Point) -> bool{
 		!self.moves.iter().any(|mv| (mv.from == p) || (mv.to == p))
 	}
-	
+
+	// Check if a basic move is valid for a given color
 	fn check_basic_move(&self, mv: Move, color: Color) -> bool{
 		match self.board[mv.from.y][mv.from.x]{
 			Tile::Empty => false,
@@ -176,7 +193,8 @@ impl ChessBoard{
 			} && self.check_piece_move(p, mv, c)
 		}
 	}
-	
+
+	// Check if a move for a specific piece is valid
 	fn check_piece_move(&self, piece: Piece, mv: Move, color: Color) -> bool{
 		match piece{
 			Piece::Pawn => self.check_pawn_move(mv, color, false),
@@ -187,7 +205,8 @@ impl ChessBoard{
 			Piece::King => self.check_king_move(mv),
 		}
 	}
-	
+
+	// Check if a pawn move is valid for a given color
 	fn check_pawn_move(&self, mv: Move, color: Color, promo: bool) -> bool{
 		match color{
 			Color::White => (match self.tile_at(mv.to){
@@ -201,7 +220,8 @@ impl ChessBoard{
 			}) && (mv.to.y != 0 || promo || self.tile_at(mv.to) == Tile::Piece(Piece::King, Color::White)),
 		}
 	}
-	
+
+	// Check if a rook move is valid
 	fn check_rook_move(&self, mv: Move) -> bool{
 		mv.from.x == mv.to.x && if mv.from.y > mv.to.y {
 			mv.to.y + 1 .. mv.from.y
@@ -213,12 +233,14 @@ impl ChessBoard{
 			mv.from.x + 1 .. mv.to.x
 		}.all(|x:usize| self.board[mv.to.y][x] == Tile::Empty)
 	}
-	
+
+	// Check if a knight move is valid
 	fn check_knight_move(&self, mv: Move) -> bool{
 		(mv.from.x as i8 - mv.to.x as i8).abs() == 2 && (mv.from.y as i8 - mv.to.y as i8).abs() == 1 ||
 		(mv.from.x as i8 - mv.to.x as i8).abs() == 1 && (mv.from.y as i8 - mv.to.y as i8).abs() == 2
 	}
-	
+
+	// Check if a bishop move is valid
 	fn check_bishop_move(&self, mv: Move) -> bool{
 		let d_x = mv.to.x as i8 - mv.from.x as i8;
 		let d_y = mv.to.y as i8 - mv.from.y as i8;
@@ -237,11 +259,13 @@ impl ChessBoard{
 			}.all(|(x, y):(usize, usize)| self.board[y][x] == Tile::Empty)
 		}
 	}
-	
+
+	// Check if a king move is valid
 	fn check_king_move(&self, mv: Move) -> bool{
 		(mv.from.x as i8 - mv.to.x as i8).abs() <= 1 && (mv.from.y as i8 - mv.to.y as i8).abs() <= 1
 	}
-	
+
+	// Check if the king of a given color is under check
 	pub fn check_king_check(&self, color: Color) -> bool{
 		let king = self.trace_moves(Point{x:4, y:match color {
 			Color::White => 0,
@@ -255,7 +279,8 @@ impl ChessBoard{
 			}, color.other())
 		)
 	}
-	
+
+	// Check if the king of a given color is in checkmate
 	pub fn check_king_mate(&self, color: Color) -> bool{
 		self.collect_piece_coords(color).iter().all(|&p|{
 			(0usize .. 8).all(|x|{
@@ -268,14 +293,16 @@ impl ChessBoard{
 			})
 		})
 	}
-	
+
+	// Collect coordinates of pieces of a given color on the board
 	fn collect_piece_coords(&self, color: Color) -> Vec<Point>{
 		(0usize .. 8).flat_map(|x|(match color{
 			Color::White => 0usize .. 2,
 			Color::Black => 6usize .. 8,
 		}).map(move |y|Point{x:x, y:y})).filter_map(|p|self.trace_moves(p)).collect()
 	}
-	
+
+	// Trace the moves associated with a given position
 	fn trace_moves(&self, p: Point) -> Option<Point>{
 		self.moves.iter().fold(Some(p), |opt: Option<Point>, mv: &Move| match opt{
 			None => None,
@@ -288,7 +315,8 @@ impl ChessBoard{
 			},
 		})
 	}
-	
+
+	// Apply a given move type to the board
 	pub fn apply_move_type(&self, mvt: MoveType) -> ChessBoard{
 		match mvt{
 			MoveType::Basic(mv) => self.apply_move(mv),
@@ -301,7 +329,8 @@ impl ChessBoard{
 			MoveType::Castling(mvk, mvr) => self.apply_move(mvk).apply_move(mvr),
 		}
 	}
-	
+
+	// Apply a given move to the board
 	fn apply_move(&self, mv: Move) -> ChessBoard{
 		let mut new_board = self.clone();
 		new_board.board[mv.to.y][mv.to.x] = self.tile_at(mv.from);
@@ -309,7 +338,8 @@ impl ChessBoard{
 		new_board.moves.push(mv);
 		new_board
 	}
-	
+
+	// Set the tile at a given position to a specified tile
 	fn set_tile(&self, p: Point, t: Tile) -> ChessBoard{
 		let mut new_board = self.clone();
 		new_board.board[p.y][p.x] = t;
