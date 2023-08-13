@@ -65,10 +65,12 @@ impl MoveType {
         let ranks = ['1', '2', '3', '4', '5', '6', '7', '8']; // Array of rank characters
 
         let mut rng = rand::thread_rng(); // Creating a random number generator instance
-        let random_file = rng.gen_range(0..8); // Generating a random file index
-        let random_rank = rng.gen_range(0..8); // Generating a random rank index
+        let random_file_from = rng.gen_range(0..8); // Generating a random file index
+        let random_rank_from = rng.gen_range(0..8); // Generating a random rank index
+        let random_file_to   = rng.gen_range(0..8); // Generating a random file index
+        let random_rank_to   = rng.gen_range(0..8); // Generating a random rank index
 
-        format!("{} {}", files[random_file], ranks[random_rank]) // Formatting and returning the random move string
+        format!("{}{} {}{}", files[random_file_from], ranks[random_rank_from], files[random_file_to], ranks[random_rank_to]) // Formatting and returning the random move string
     }
 
     // Implementing a method to parse a string input into a MoveType enum

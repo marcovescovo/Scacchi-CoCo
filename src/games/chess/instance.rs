@@ -13,6 +13,8 @@ use super::color::Color;
 use super::board::ChessBoard;
 use super::chess_move::MoveType;
 use std::io::{stdin, BufRead};
+use std::fs::OpenOptions;
+use std::io::prelude::*;
 
 // Define a struct named 'Instance' to hold game-related parameters
 #[derive(Debug)]
@@ -63,28 +65,23 @@ impl game::Instance for Instance {
             lnout2!(p[1].output, &p[i].name);
             lnout2!(spectators, &p[i].name);
         }
-        
-        // Send initial messages to players
-        lnout2!(p[0].output, "You have the white pieces");
-        lnout2!(p[1].output, "You have the black pieces");
+        // Send player index to players
+        lnout2!(p[0].output, "0");
+        lnout2!(p[1].output, "1");
         
         let mut turn = 0;
         let mut current_color = Color::White;
         let mut retired = 0;
         let mut draw = 0;
+
+        let mut file = OpenOptions::new()
+        .write(true)
+        .append(true)
+        .open("src/games/chess/input_player.txt")
+        .unwrap();
         
         // Main game loop
         while !board.check_king_mate(current_color) && retired == 0 && draw != 2 {
-            // Check if the current player's king is in check
-            if board.check_king_check(current_color) {
-                lnout2!(p[turn].output, "Your king is in check!");
-                lnout2!(p[1 - turn].output, "You checked the opponent's king!");
-                if turn == 0 {
-                    lnout2!(spectators, "White king is checked!");
-                } else {
-                    lnout2!(spectators, "Black king is checked!");
-                };
-            }
             
             println!("\n");
             board.display();
@@ -99,11 +96,22 @@ impl game::Instance for Instance {
             match timeout(self.timeout, p[turn].input.read_line(&mut buffer)).await {
                 Ok(n) => {
                     trimmed = buffer.trim().to_string();
+                    //let ch = trimmed.chars().nth(0).unwrap();
+                    //if ch == turn.to_char() {
+                    //    turn = 1 - turn;
+                    //    current_color = refreshColor(turn);
+                    //    trimmed.remove(0);
+                    //}
                 }
                 Err(err) => {
                     trimmed = buffer.trim().to_string();
                 }
             };
+
+    
+            if let Err(e) = writeln!(file, "{}", trimmed) {
+                eprintln!("Couldn't write to file: {}", e);
+            }
             
             // Handle the draw condition
             if draw == 1 {
@@ -114,6 +122,7 @@ impl game::Instance for Instance {
                     draw = draw + 1;
                 } else {
                     draw = 0;
+                    lnout2!(p[turn].output, "Draw proposed");
                     lnout2!(p[1 - turn].output, "Draw proposal refused");
                     lnout2!(spectators, "Draw proposal refused");
                     turn = 1 - turn;
@@ -131,17 +140,16 @@ impl game::Instance for Instance {
                 } else {
                     if trimmed == "DRAW" {
                         draw = 1;
-                        lnout2!(p[turn].output, "Draw proposed");
-                        lnout2!(p[1 - turn].output, "Draw proposed");
-                        lnout2!(spectators, "Draw proposed");
-                        turn = 1 - turn;
-                        current_color = refreshColor(turn);
+                        lnout2!(p[turn].output, "DRAW");
+                        lnout2!(p[1 - turn].output, "DRAW");
+                        lnout2!(spectators, "DRAW");
                     } else {
                         lnout2!(p[turn].output, "Invalid move");
                     }
                 };
                 continue;
             } else {
+                lnout2!(p[turn].output, &trimmed);
                 lnout2!(p[1 - turn].output, &trimmed);
                 lnout2!(spectators, &trimmed);
                 

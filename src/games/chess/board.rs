@@ -210,13 +210,15 @@ impl ChessBoard{
 	fn check_pawn_move(&self, mv: Move, color: Color, promo: bool) -> bool{
 		match color{
 			Color::White => (match self.tile_at(mv.to){
-				Tile::Empty => mv.from.x == mv.to.x && (mv.from.y == mv.to.y - 1 || mv.from.y == 1 && mv.to.y == 3),
+				//Tile::Empty => mv.from.x == mv.to.x && (mv.from.y == mv.to.y - 1 || mv.from.y == 1 && mv.to.y == 3),
+				Tile::Empty => mv.from.x == mv.to.x && (Some(mv.from.y) == mv.to.y.checked_sub(1) || mv.from.y == 1 && mv.to.y == 3),
 				//_ => mv.from.y == mv.to.y - 1 && (mv.from.x == mv.to.x - 1 || mv.from.x == mv.to.x + 1),
 				_ => Some(mv.from.y) == mv.to.y.checked_sub(1) && (Some(mv.from.x) == mv.to.x.checked_sub(1) || mv.from.x == mv.to.x + 1),
 			}) && (mv.to.y != 7 || promo || self.tile_at(mv.to) == Tile::Piece(Piece::King, Color::Black)),
 			Color::Black => (match self.tile_at(mv.to){
 				Tile::Empty => mv.from.x == mv.to.x && (mv.from.y == mv.to.y + 1 || mv.from.y == 6 && mv.to.y == 4),
-				_ => mv.from.y == mv.to.y + 1 && (mv.from.x == mv.to.x - 1 || mv.from.x == mv.to.x + 1),
+				//_ => mv.from.y == mv.to.y + 1 && (mv.from.x == mv.to.x - 1 || mv.from.x == mv.to.x + 1),
+				_ => mv.from.y == mv.to.y + 1 && (Some(mv.from.x) == mv.to.x.checked_sub(1) || mv.from.x == mv.to.x + 1),
 			}) && (mv.to.y != 0 || promo || self.tile_at(mv.to) == Tile::Piece(Piece::King, Color::White)),
 		}
 	}

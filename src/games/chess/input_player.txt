@@ -1,0 +1,4186 @@
+a2 a3
+Server sent invalid move! Invalidmove
+
+
+
+
+
+
+
+
+
+
+b2 b3
+
+
+
+
+f2 f3
+d7 d5
+Server sent invalid move! f2f3
+b1 c3
+d5 d4
+Server sent invalid move! d7d5
+a2 a3
+d4 d3
+Server sent invalid move! Invalidmove
+c3 d5
+d3 c2
+Server sent invalid move! b1c3
+e2 e4
+promote c2 d1 queen
+a2 a3
+d7 d5
+Server sent invalid move! a2a3
+f2 f3
+d5 d4
+Server sent invalid move! d7d5
+h2 h3
+d4 d3
+Server sent invalid move! Invalidmove
+d2 d3
+Server sent invalid move! f2f3
+f3 f4
+d3 c2
+Server sent invalid move! d5d4
+d1 d2
+Server sent invalid move! Invalidmove
+e1 f2
+promote c2 d1 queen
+Server sent invalid move! h2h3
+c2 c4
+Server sent invalid move! d4d3
+c4 c5
+Server sent invalid move! Invalidmove
+b2 b3
+d8 d4
+Server sent invalid move! Invalidmove
+e2 e4
+Server sent invalid move! Invalidmove
+a1 a2
+Server sent invalid move! f3f4
+f1 e2
+Server sent invalid move! d3c2
+d2 b4
+Server sent invalid move! Invalidmove
+f2 e1
+Server sent invalid move! Invalidmove
+e2 f3
+Server sent invalid move! Invalidmove
+f3 h5
+Server sent invalid move! e1f2
+b4 b7
+Server sent invalid move! promotec2d1queen
+a2 e2
+Server sent invalid move! Invalidmove
+g2 g3
+Server sent invalid move! Invalidmove
+e2 f2
+Server sent invalid move! Invalidmove
+b7 c7
+Server sent invalid move! Invalidmove
+c7 d8
+Server sent invalid move! Invalidmove
+f2 e2
+Server sent invalid move! b2b3
+e1 f1
+Server sent invalid move! d8d4
+b3 b4
+Server sent invalid move! Invalidmove
+h5 f7
+Server sent invalid move! Invalidmove
+f1 e1
+Server sent invalid move! Invalidmove
+e2 h2
+Server sent invalid move! Invalidmove
+g1 e2
+Server sent invalid move! Invalidmove
+e2 c3
+Server sent invalid move! Invalidmove
+c3 d5
+Server sent invalid move! Invalidmove
+h3 h4
+Server sent invalid move! Invalidmove
+d5 c7
+Server sent invalid move! Invalidmove
+h1 g1
+Server sent invalid move! Invalidmove
+b1 c3
+Server sent invalid move! Invalidmove
+h2 b2
+Server sent invalid move! Invalidmove
+c7 b5
+Server sent invalid move! Invalidmove
+b2 g2
+Server sent invalid move! Invalidmove
+e1 d1
+Server sent invalid move! Invalidmove
+f7 a2
+Server sent invalid move! Invalidmove
+b5 a7
+Server sent invalid move! Invalidmove
+d8 a5
+Server sent invalid move! Invalidmove
+a7 b5
+Server sent invalid move! Invalidmove
+a5 d8
+Server sent invalid move! Invalidmove
+d8 e7
+Server sent invalid move! Invalidmove
+b5 a7
+Server sent invalid move! Invalidmove
+e7 e6
+Server sent invalid move! Invalidmove
+e6 a6
+Server sent invalid move! Invalidmove
+g2 e2
+Server sent invalid move! Invalidmove
+a6 b7
+Server sent invalid move! Invalidmove
+b7 d7
+Server sent invalid move! Invalidmove
+d7 e7
+Server sent invalid move! Invalidmove
+c1 e3
+Server sent invalid move! Invalidmove
+e7 f7
+Server sent invalid move! Invalidmove
+a2 d5
+Server sent invalid move! Invalidmove
+e2 f2
+Server sent invalid move! Invalidmove
+f7 f8
+Server sent invalid move! Invalidmove
+d1 d2
+Server sent invalid move! Invalidmove
+f8 f6
+Server sent invalid move! Invalidmove
+d2 c1
+Server sent invalid move! Invalidmove
+f6 d4
+Server sent invalid move! Invalidmove
+a7 c8
+Server sent invalid move! Invalidmove
+e3 d2
+Server sent invalid move! Invalidmove
+g1 g2
+Server sent invalid move! Invalidmove
+b4 b5
+Server sent invalid move! Invalidmove
+d2 e1
+Server sent invalid move! Invalidmove
+c1 b1
+Server sent invalid move! Invalidmove
+b1 c1
+Server sent invalid move! Invalidmove
+g3 g4
+Server sent invalid move! Invalidmove
+g2 h2
+Server sent invalid move! Invalidmove
+c3 d1
+Server sent invalid move! Invalidmove
+d4 b4
+Server sent invalid move! Invalidmove
+a3 a4
+Server sent invalid move! Invalidmove
+h2 h3
+Server sent invalid move! Invalidmove
+b4 c3
+Server sent invalid move! Invalidmove
+c1 b1
+Server sent invalid move! Invalidmove
+c3 b4
+Server sent invalid move! Invalidmove
+d5 b3
+Server sent invalid move! Invalidmove
+h3 h2
+Server sent invalid move! Invalidmove
+e1 d2
+Server sent invalid move! Invalidmove
+c5 c6
+Server sent invalid move! Invalidmove
+d1 b2
+Server sent invalid move! Invalidmove
+b4 a3
+Server sent invalid move! Invalidmove
+d3 d4
+Server sent invalid move! Invalidmove
+d2 e3
+Server sent invalid move! Invalidmove
+b3 c4
+Server sent invalid move! Invalidmove
+d4 d5
+Server sent invalid move! Invalidmove
+b1 a2
+Server sent invalid move! Invalidmove
+h2 g2
+Server sent invalid move! Invalidmove
+a3 c3
+Server sent invalid move! Invalidmove
+e3 c5
+Server sent invalid move! Invalidmove
+c8 d6
+Server sent invalid move! Invalidmove
+c3 e5
+Server sent invalid move! Invalidmove
+b2 d3
+Server sent invalid move! Invalidmove
+a2 a1
+Server sent invalid move! Invalidmove
+d6 e8
+Server sent invalid move! Invalidmove
+g2 g1
+Server sent invalid move! Invalidmove
+c5 d4
+Server sent invalid move! Invalidmove
+f2 f3
+d1 f1
+Server sent invalid move! Invalidmove
+f4 f5
+Server sent invalid move! Invalidmove
+d3 f2
+Server sent invalid move! Invalidmove
+f2 d3
+Server sent invalid move! Invalidmove
+e8 f6
+Server sent invalid move! Invalidmove
+d4 b2
+Server sent invalid move! Invalidmove
+e5 e7
+Server sent invalid move! Invalidmove
+d5 d6
+Server sent invalid move! Invalidmove
+b2 e5
+Server sent invalid move! Invalidmove
+e7 d8
+Server sent invalid move! Invalidmove
+d8 c7
+Server sent invalid move! Invalidmove
+f6 e8
+Server sent invalid move! Invalidmove
+d3 e1
+Server sent invalid move! Invalidmove
+f3 b3
+Server sent invalid move! Invalidmove
+g1 f1
+Server sent invalid move! Invalidmove
+f1 h1
+Server sent invalid move! Invalidmove
+c7 b7
+Server sent invalid move! Invalidmove
+b7 c8
+Server sent invalid move! Invalidmove
+a1 b2
+Server sent invalid move! Invalidmove
+b3 e3
+Server sent invalid move! Invalidmove
+e3 a3
+Server sent invalid move! Invalidmove
+f5 f6
+Server sent invalid move! Invalidmove
+c4 f1
+Server sent invalid move! Invalidmove
+c8 e6
+Server sent invalid move! Invalidmove
+a3 g3
+Server sent invalid move! Invalidmove
+e6 b3
+Server sent invalid move! Invalidmove
+b3 d5
+Server sent invalid move! Invalidmove
+d5 d2
+Server sent invalid move! Invalidmove
+d2 f2
+Server sent invalid move! Invalidmove
+f2 f3
+Server sent invalid move! Invalidmove
+b2 c2
+Server sent invalid move! Invalidmove
+e5 c3
+Server sent invalid move! Invalidmove
+b5 b6
+Server sent invalid move! Invalidmove
+c3 d4
+Server sent invalid move! Invalidmove
+f3 d1
+Server sent invalid move! Invalidmove
+b6 b7
+Server sent invalid move! Invalidmove
+d4 b6
+Server sent invalid move! Invalidmove
+b6 d8
+Server sent invalid move! Invalidmove
+c2 b3
+Server sent invalid move! Invalidmove
+e8 c7
+Server sent invalid move! Invalidmove
+f1 a6
+Server sent invalid move! Invalidmove
+g3 d3
+Server sent invalid move! Invalidmove
+h1 f1
+Server sent invalid move! Invalidmove
+b3 b2
+Server sent invalid move! Invalidmove
+c7 d5
+Server sent invalid move! Invalidmove
+d3 c3
+Server sent invalid move! Invalidmove
+d1 d4
+Server sent invalid move! Invalidmove
+b2 a3
+Server sent invalid move! Invalidmove
+e1 d3
+Server sent invalid move! Invalidmove
+c3 b3
+Server sent invalid move! Invalidmove
+b3 c3
+Server sent invalid move! Invalidmove
+f1 f5
+Server sent invalid move! Invalidmove
+d3 b4
+Server sent invalid move! Invalidmove
+f5 f4
+Server sent invalid move! Invalidmove
+a3 a2
+Server sent invalid move! Invalidmove
+c3 d3
+Server sent invalid move! Invalidmove
+d3 f3
+Server sent invalid move! Invalidmove
+f3 d3
+Server sent invalid move! Invalidmove
+d8 c7
+Server sent invalid move! Invalidmove
+a2 b3
+Server sent invalid move! Invalidmove
+d4 b2
+Server sent invalid move! Invalidmove
+b2 b1
+Server sent invalid move! Invalidmove
+d3 d2
+Server sent invalid move! Invalidmove
+d5 c3
+Server sent invalid move! Invalidmove
+b1 b2
+Server sent invalid move! Invalidmove
+a6 c4
+Server sent invalid move! Invalidmove
+d2 h2
+Server sent invalid move! Invalidmove
+c3 e2
+Server sent invalid move! Invalidmove
+c7 a5
+Server sent invalid move! Invalidmove
+b2 e5
+Server sent invalid move! Invalidmove
+d6 d7
+Server sent invalid move! Invalidmove
+e5 b5
+Server sent invalid move! Invalidmove
+b3 c2
+Server sent invalid move! Invalidmove
+c2 c3
+Server sent invalid move! Invalidmove
+c4 d3
+Server sent invalid move! Invalidmove
+a5 c7
+Server sent invalid move! Invalidmove
+b4 a6
+Server sent invalid move! Invalidmove
+e2 c1
+Server sent invalid move! Invalidmove
+c3 b2
+Server sent invalid move! Invalidmove
+a4 a5
+Server sent invalid move! Invalidmove
+h2 f2
+Server sent invalid move! Invalidmove
+e4 e5
+Server sent invalid move! Invalidmove
+b2 a1
+Server sent invalid move! Invalidmove
+d3 f1
+Server sent invalid move! Invalidmove
+b5 a4
+Server sent invalid move! Invalidmove
+f1 h3
+Server sent invalid move! Invalidmove
+a4 b4
+Server sent invalid move! Invalidmove
+b4 b1
+Server sent invalid move! Invalidmove
+f2 c2
+Server sent invalid move! Invalidmove
+f4 f3
+Server sent invalid move! Invalidmove
+c1 a2
+Server sent invalid move! Invalidmove
+c2 c1
+Server sent invalid move! Invalidmove
+e5 e6
+Server sent invalid move! Invalidmove
+f6 f7
+Server sent invalid move! Invalidmove
+b1 d3
+Server sent invalid move! Invalidmove
+d3 d1
+Server sent invalid move! Invalidmove
+c1 b1
+Server sent invalid move! Invalidmove
+f3 f5
+Server sent invalid move! Invalidmove
+d1 d4
+Server sent invalid move! Invalidmove
+b1 f1
+Server sent invalid move! Invalidmove
+d4 e4
+Server sent invalid move! Invalidmove
+f5 f2
+Server sent invalid move! Invalidmove
+e4 d5
+Server sent invalid move! Invalidmove
+a6 b8
+Server sent invalid move! Invalidmove
+a2 b4
+Server sent invalid move! Invalidmove
+f2 a2
+Server sent invalid move! f2f3
+c7 d6
+Server sent invalid move! d1f1
+d5 e4
+Server sent invalid move! Invalidmove
+f1 h1
+Server sent invalid move! Invalidmove
+a2 h2
+Server sent invalid move! Invalidmove
+h2 a2
+Server sent invalid move! Invalidmove
+e4 f3
+Server sent invalid move! Invalidmove
+f3 c3
+Server sent invalid move! Invalidmove
+h1 g1
+Server sent invalid move! Invalidmove
+c6 c7
+Server sent invalid move! Invalidmove
+h3 g2
+Server sent invalid move! Invalidmove
+b8 c6
+Server sent invalid move! Invalidmove
+d6 c5
+Server sent invalid move! Invalidmove
+g1 c1
+Server sent invalid move! Invalidmove
+a2 b2
+Server sent invalid move! Invalidmove
+c3 d2
+Server sent invalid move! Invalidmove
+c6 e5
+Server sent invalid move! Invalidmove
+d2 e1
+Server sent invalid move! Invalidmove
+c5 e7
+Server sent invalid move! Invalidmove
+b2 f2
+Server sent invalid move! Invalidmove
+a5 a6
+Server sent invalid move! Invalidmove
+g2 f3
+Server sent invalid move! Invalidmove
+a1 a2
+Server sent invalid move! Invalidmove
+b4 c6
+Server sent invalid move! Invalidmove
+a2 b1
+Server sent invalid move! Invalidmove
+e7 a3
+Server sent invalid move! Invalidmove
+g4 g5
+Server sent invalid move! Invalidmove
+c6 d4
+Server sent invalid move! Invalidmove
+f3 g2
+Server sent invalid move! Invalidmove
+g2 d5
+Server sent invalid move! Invalidmove
+e1 e3
+Server sent invalid move! Invalidmove
+d4 e2
+Server sent invalid move! Invalidmove
+e3 g3
+Server sent invalid move! Invalidmove
+e5 c4
+Server sent invalid move! Invalidmove
+c1 f1
+Server sent invalid move! Invalidmove
+d5 c6
+Server sent invalid move! Invalidmove
+e2 d4
+Server sent invalid move! Invalidmove
+d4 e2
+Server sent invalid move! Invalidmove
+f2 g2
+Server sent invalid move! Invalidmove
+b1 c2
+Server sent invalid move! Invalidmove
+c6 b5
+Server sent invalid move! Invalidmove
+b5 a4
+Server sent invalid move! Invalidmove
+c4 b2
+Server sent invalid move! Invalidmove
+g3 h3
+Server sent invalid move! Invalidmove
+f1 g1
+Server sent invalid move! Invalidmove
+h3 h1
+Server sent invalid move! Invalidmove
+g2 g3
+Server sent invalid move! Invalidmove
+b2 d1
+Server sent invalid move! Invalidmove
+a4 b5
+Server sent invalid move! Invalidmove
+g3 f3
+Server sent invalid move! Invalidmove
+f3 e3
+Server sent invalid move! Invalidmove
+a3 c5
+Server sent invalid move! Invalidmove
+e2 c1
+Server sent invalid move! Invalidmove
+d1 c3
+Server sent invalid move! Invalidmove
+c3 d5
+Server sent invalid move! Invalidmove
+g5 g6
+Server sent invalid move! Invalidmove
+h1 g2
+Server sent invalid move! Invalidmove
+c5 a7
+Server sent invalid move! Invalidmove
+h4 h5
+Server sent invalid move! Invalidmove
+c1 d3
+Server sent invalid move! Invalidmove
+e3 e4
+Server sent invalid move! Invalidmove
+g1 c1
+Server sent invalid move! Invalidmove
+g6 h7
+Server sent invalid move! Invalidmove
+c2 d2
+Server sent invalid move! Invalidmove
+d5 b4
+Server sent invalid move! Invalidmove
+b4 a2
+Server sent invalid move! Invalidmove
+b5 c6
+Server sent invalid move! Invalidmove
+a7 f2
+Server sent invalid move! Invalidmove
+d2 e3
+Server sent invalid move! Invalidmove
+c1 f1
+Server sent invalid move! Invalidmove
+g2 g7
+Server sent invalid move! Invalidmove
+g7 g3
+Server sent invalid move! Invalidmove
+d3 e1
+Server sent invalid move! Invalidmove
+e3 d3
+Server sent invalid move! Invalidmove
+d3 d4
+Server sent invalid move! Invalidmove
+g3 g8
+Server sent invalid move! Invalidmove
+e4 e3
+Server sent invalid move! Invalidmove
+e3 d3
+Server sent invalid move! Invalidmove
+h5 h6
+Server sent invalid move! Invalidmove
+c6 e4
+Server sent invalid move! Invalidmove
+g8 g4
+Server sent invalid move! Invalidmove
+g4 h4
+Server sent invalid move! Invalidmove
+h4 g3
+Server sent invalid move! Invalidmove
+d3 b3
+Server sent invalid move! Invalidmove
+e1 d3
+Server sent invalid move! Invalidmove
+d4 c4
+Server sent invalid move! Invalidmove
+f2 b6
+Server sent invalid move! Invalidmove
+b3 c3
+Server sent invalid move! Invalidmove
+c4 b5
+Server sent invalid move! Invalidmove
+b6 e3
+Server sent invalid move! Invalidmove
+b5 a5
+Server sent invalid move! Invalidmove
+d3 c1
+Server sent invalid move! Invalidmove
+f1 f6
+Server sent invalid move! Invalidmove
+e3 g1
+Server sent invalid move! Invalidmove
+a6 a7
+Server sent invalid move! Invalidmove
+e4 f3
+Server sent invalid move! Invalidmove
+f6 f5
+Server sent invalid move! Invalidmove
+a5 b4
+Server sent invalid move! Invalidmove
+c3 c5
+Server sent invalid move! Invalidmove
+b4 c4
+Server sent invalid move! Invalidmove
+f5 e5
+Server sent invalid move! Invalidmove
+g1 e3
+Server sent invalid move! Invalidmove
+f3 c6
+Server sent invalid move! Invalidmove
+e5 g5
+Server sent invalid move! Invalidmove
+c5 f5
+Server sent invalid move! Invalidmove
+c1 e2
+Server sent invalid move! Invalidmove
+c6 g2
+Server sent invalid move! Invalidmove
+a2 c1
+Server sent invalid move! Invalidmove
+e2 g1
+Server sent invalid move! Invalidmove
+g5 g6
+Server sent invalid move! Invalidmove
+g1 f3
+Server sent invalid move! Invalidmove
+g2 h1
+Server sent invalid move! Invalidmove
+h1 g2
+Server sent invalid move! Invalidmove
+g2 h1
+Server sent invalid move! Invalidmove
+c4 d4
+Server sent invalid move! Invalidmove
+g3 g4
+Server sent invalid move! Invalidmove
+e3 f4
+Server sent invalid move! Invalidmove
+f4 h2
+Server sent invalid move! Invalidmove
+f5 b5
+Server sent invalid move! Invalidmove
+g4 g3
+Server sent invalid move! Invalidmove
+f3 e5
+Server sent invalid move! Invalidmove
+g3 h4
+Server sent invalid move! Invalidmove
+h4 e1
+Server sent invalid move! Invalidmove
+d4 e3
+Server sent invalid move! Invalidmove
+c1 b3
+Server sent invalid move! Invalidmove
+e1 d1
+Server sent invalid move! Invalidmove
+e3 f3
+Server sent invalid move! Invalidmove
+f3 e4
+Server sent invalid move! Invalidmove
+g6 g8
+Server sent invalid move! Invalidmove
+g8 g6
+Server sent invalid move! Invalidmove
+d1 d4
+Server sent invalid move! Invalidmove
+d4 d2
+Server sent invalid move! Invalidmove
+b3 a5
+Server sent invalid move! Invalidmove
+g6 g8
+Server sent invalid move! Invalidmove
+d2 f2
+Server sent invalid move! Invalidmove
+h1 g2
+Server sent invalid move! Invalidmove
+f2 b2
+Server sent invalid move! Invalidmove
+e4 f5
+Server sent invalid move! Invalidmove
+g2 f3
+Server sent invalid move! Invalidmove
+b2 b1
+Server sent invalid move! Invalidmove
+b5 b2
+Server sent invalid move! Invalidmove
+b2 e2
+Server sent invalid move! Invalidmove
+b1 c2
+Server sent invalid move! Invalidmove
+g8 c8
+Server sent invalid move! Invalidmove
+e5 g6
+Server sent invalid move! Invalidmove
+c8 a8
+Server sent invalid move! Invalidmove
+f3 h1
+Server sent invalid move! Invalidmove
+h1 g2
+Server sent invalid move! Invalidmove
+e6 e7
+Server sent invalid move! Invalidmove
+a5 c6
+Server sent invalid move! Invalidmove
+a8 d8
+Server sent invalid move! Invalidmove
+h2 d6
+Server sent invalid move! Invalidmove
+c2 b2
+Server sent invalid move! Invalidmove
+c6 d4
+Server sent invalid move! Invalidmove
+g2 f3
+Server sent invalid move! Invalidmove
+f5 f6
+Server sent invalid move! Invalidmove
+d4 e6
+Server sent invalid move! Invalidmove
+e2 h2
+Server sent invalid move! Invalidmove
+b2 a2
+Server sent invalid move! Invalidmove
+a2 a5
+Server sent invalid move! Invalidmove
+f3 d1
+Server sent invalid move! Invalidmove
+a5 e5
+Server sent invalid move! Invalidmove
+d8 e8
+Server sent invalid move! Invalidmove
+d1 a4
+Server sent invalid move! Invalidmove
+h2 b2
+Server sent invalid move! Invalidmove
+e5 a5
+Server sent invalid move! Invalidmove
+d6 a3
+Server sent invalid move! Invalidmove
+b2 c2
+Server sent invalid move! Invalidmove
+a5 d5
+Server sent invalid move! Invalidmove
+e8 f8
+Server sent invalid move! Invalidmove
+f6 f5
+Server sent invalid move! Invalidmove
+d5 d4
+Server sent invalid move! Invalidmove
+a3 c1
+Server sent invalid move! Invalidmove
+d4 g7
+Server sent invalid move! Invalidmove
+c2 h2
+Server sent invalid move! Invalidmove
+f8 g8
+Server sent invalid move! Invalidmove
+g8 e8
+Server sent invalid move! Invalidmove
+e8 d8
+Server sent invalid move! Invalidmove
+h2 h4
+Server sent invalid move! Invalidmove
+e6 c5
+Server sent invalid move! Invalidmove
+c5 e4
+Server sent invalid move! Invalidmove
+e4 c5
+Server sent invalid move! Invalidmove
+h4 g4
+Server sent invalid move! Invalidmove
+c5 e4
+Server sent invalid move! Invalidmove
+c1 e3
+Server sent invalid move! Invalidmove
+g4 h4
+Server sent invalid move! Invalidmove
+e3 f2
+Server sent invalid move! Invalidmove
+g7 d4
+Server sent invalid move! Invalidmove
+h4 f4
+Server sent invalid move! Invalidmove
+g6 h8
+Server sent invalid move! Invalidmove
+f2 h4
+Server sent invalid move! Invalidmove
+a4 d1
+Server sent invalid move! Invalidmove
+e4 f6
+Server sent invalid move! Invalidmove
+d4 d3
+Server sent invalid move! Invalidmove
+d1 g4
+Server sent invalid move! Invalidmove
+f6 h5
+Server sent invalid move! Invalidmove
+f5 g6
+Server sent invalid move! Invalidmove
+h5 f6
+Server sent invalid move! Invalidmove
+d8 f8
+Server sent invalid move! Invalidmove
+g6 h5
+Server sent invalid move! Invalidmove
+g4 h3
+Server sent invalid move! Invalidmove
+h4 e1
+Server sent invalid move! Invalidmove
+f4 f1
+Server sent invalid move! Invalidmove
+f1 f4
+Server sent invalid move! Invalidmove
+e1 d2
+Server sent invalid move! Invalidmove
+d3 a3
+Server sent invalid move! Invalidmove
+f6 e4
+Server sent invalid move! Invalidmove
+f4 h4
+Server sent invalid move! Invalidmove
+d2 g5
+Server sent invalid move! Invalidmove
+g5 f6
+Server sent invalid move! Invalidmove
+e4 c3
+Server sent invalid move! Invalidmove
+c3 b1
+Server sent invalid move! Invalidmove
+h5 g5
+Server sent invalid move! Invalidmove
+a3 d6
+Server sent invalid move! Invalidmove
+f6 b2
+Server sent invalid move! Invalidmove
+f8 e8
+Server sent invalid move! Invalidmove
+e8 b8
+Server sent invalid move! Invalidmove
+h4 f4
+Server sent invalid move! Invalidmove
+f4 f5
+Server sent invalid move! Invalidmove
+h3 g4
+Server sent invalid move! Invalidmove
+d6 f4
+Server sent invalid move! Invalidmove
+b2 d4
+Server sent invalid move! Invalidmove
+f5 e5
+Server sent invalid move! Invalidmove
+g5 f6
+Server sent invalid move! Invalidmove
+f4 f5
+Server sent invalid move! Invalidmove
+f5 e6
+Server sent invalid move! Invalidmove
+d4 g1
+Server sent invalid move! Invalidmove
+g1 b6
+Server sent invalid move! Invalidmove
+e5 f5
+Server sent invalid move! Invalidmove
+f5 g5
+Server sent invalid move! Invalidmove
+g5 d5
+Server sent invalid move! Invalidmove
+e6 e3
+Server sent invalid move! Invalidmove
+b8 f8
+Server sent invalid move! Invalidmove
+b6 d4
+Server sent invalid move! Invalidmove
+g4 f5
+Server sent invalid move! Invalidmove
+b1 c3
+Server sent invalid move! Invalidmove
+f8 c8
+Server sent invalid move! Invalidmove
+f6 g6
+Server sent invalid move! Invalidmove
+c8 d8
+Server sent invalid move! Invalidmove
+d5 a5
+Server sent invalid move! Invalidmove
+g6 h5
+Server sent invalid move! Invalidmove
+e3 e1
+Server sent invalid move! Invalidmove
+a5 a1
+Server sent invalid move! Invalidmove
+f5 h3
+Server sent invalid move! Invalidmove
+d8 c8
+Server sent invalid move! Invalidmove
+e1 e6
+Server sent invalid move! Invalidmove
+h5 h4
+Server sent invalid move! Invalidmove
+e6 e1
+Server sent invalid move! Invalidmove
+h4 g5
+Server sent invalid move! Invalidmove
+e1 h4
+Server sent invalid move! Invalidmove
+c8 d8
+Server sent invalid move! Invalidmove
+d4 f6
+Server sent invalid move! Invalidmove
+c3 e4
+Server sent invalid move! Invalidmove
+d8 g8
+Server sent invalid move! Invalidmove
+g8 e8
+Server sent invalid move! Invalidmove
+a1 a6
+Server sent invalid move! Invalidmove
+e8 b8
+Server sent invalid move! Invalidmove
+a6 c6
+Server sent invalid move! Invalidmove
+c6 c1
+Server sent invalid move! Invalidmove
+h3 e6
+Server sent invalid move! Invalidmove
+c1 c5
+Server sent invalid move! Invalidmove
+c5 c2
+Server sent invalid move! Invalidmove
+b8 c8
+Server sent invalid move! Invalidmove
+c8 d8
+Server sent invalid move! Invalidmove
+e4 d2
+Server sent invalid move! Invalidmove
+c2 a2
+Server sent invalid move! Invalidmove
+a2 c2
+Server sent invalid move! Invalidmove
+f6 a1
+Server sent invalid move! Invalidmove
+a1 f6
+Server sent invalid move! Invalidmove
+d8 c8
+Server sent invalid move! Invalidmove
+h4 f4
+Server sent invalid move! Invalidmove
+d2 b1
+Server sent invalid move! Invalidmove
+g5 f5
+Server sent invalid move! Invalidmove
+f6 b2
+Server sent invalid move! Invalidmove
+f4 d2
+Server sent invalid move! Invalidmove
+b2 c1
+Server sent invalid move! Invalidmove
+c8 e8
+Server sent invalid move! Invalidmove
+d2 d6
+Server sent invalid move! Invalidmove
+c1 f4
+Server sent invalid move! Invalidmove
+c2 c1
+Server sent invalid move! Invalidmove
+c1 c4
+Server sent invalid move! Invalidmove
+e8 f8
+Server sent invalid move! Invalidmove
+d6 d2
+Server sent invalid move! Invalidmove
+f5 g4
+Server sent invalid move! Invalidmove
+g4 g3
+Server sent invalid move! Invalidmove
+h8 g6
+Server sent invalid move! Invalidmove
+g3 g4
+Server sent invalid move! Invalidmove
+g4 h5
+Server sent invalid move! Invalidmove
+f8 h8
+Server sent invalid move! Invalidmove
+c4 a4
+Server sent invalid move! Invalidmove
+a4 d4
+Server sent invalid move! Invalidmove
+d4 a4
+Server sent invalid move! Invalidmove
+b1 c3
+Server sent invalid move! Invalidmove
+h8 c8
+Server sent invalid move! Invalidmove
+h5 g4
+Server sent invalid move! Invalidmove
+c3 d1
+Server sent invalid move! Invalidmove
+c8 h8
+Server sent invalid move! Invalidmove
+d2 a5
+Server sent invalid move! Invalidmove
+h8 a8
+Server sent invalid move! Invalidmove
+a4 a1
+Server sent invalid move! Invalidmove
+g6 h4
+Server sent invalid move! Invalidmove
+a1 a2
+Server sent invalid move! Invalidmove
+a5 a3
+Server sent invalid move! Invalidmove
+a2 a1
+Server sent invalid move! Invalidmove
+g4 f3
+Server sent invalid move! Invalidmove
+f4 h2
+Server sent invalid move! Invalidmove
+a3 c5
+Server sent invalid move! Invalidmove
+e6 g4
+Server sent invalid move! Invalidmove
+g4 h3
+Server sent invalid move! Invalidmove
+f3 g4
+Server sent invalid move! Invalidmove
+g4 g3
+Server sent invalid move! Invalidmove
+c5 e3
+Server sent invalid move! Invalidmove
+h3 f1
+Server sent invalid move! Invalidmove
+g3 f2
+Server sent invalid move! Invalidmove
+e3 f4
+Server sent invalid move! Invalidmove
+a8 f8
+Server sent invalid move! Invalidmove
+f4 e3
+Server sent invalid move! Invalidmove
+f8 h8
+Server sent invalid move! Invalidmove
+e3 c1
+Server sent invalid move! Invalidmove
+h2 g1
+Server sent invalid move! Invalidmove
+f1 b5
+Server sent invalid move! Invalidmove
+h4 f3
+Server sent invalid move! Invalidmove
+h8 f8
+Server sent invalid move! Invalidmove
+c1 g5
+Server sent invalid move! Invalidmove
+f8 b8
+Server sent invalid move! Invalidmove
+g1 h2
+Server sent invalid move! Invalidmove
+a1 a3
+Server sent invalid move! Invalidmove
+h2 e5
+Server sent invalid move! Invalidmove
+e5 b2
+Server sent invalid move! Invalidmove
+a3 a2
+Server sent invalid move! Invalidmove
+g5 h4
+Server sent invalid move! Invalidmove
+f2 e3
+Server sent invalid move! Invalidmove
+h4 f4
+Server sent invalid move! Invalidmove
+f4 f5
+Server sent invalid move! Invalidmove
+f3 e5
+Server sent invalid move! Invalidmove
+f5 h5
+Server sent invalid move! Invalidmove
+e3 e4
+Server sent invalid move! Invalidmove
+h5 h2
+Server sent invalid move! Invalidmove
+h2 c2
+Server sent invalid move! Invalidmove
+b5 f1
+Server sent invalid move! Invalidmove
+a2 a3
+Server sent invalid move! Invalidmove
+f1 e2
+Server sent invalid move! Invalidmove
+e4 f3
+Server sent invalid move! Invalidmove
+a3 a4
+Server sent invalid move! Invalidmove
+a4 a3
+Server sent invalid move! Invalidmove
+e5 c6
+Server sent invalid move! Invalidmove
+a3 e3
+Server sent invalid move! Invalidmove
+c2 g6
+Server sent invalid move! Invalidmove
+g6 e6
+Server sent invalid move! Invalidmove
+e3 e4
+Server sent invalid move! Invalidmove
+e2 d3
+Server sent invalid move! Invalidmove
+b8 h8
+Server sent invalid move! Invalidmove
+b2 a3
+Server sent invalid move! Invalidmove
+h8 c8
+Server sent invalid move! Invalidmove
+f3 g2
+Server sent invalid move! Invalidmove
+e4 d4
+Server sent invalid move! Invalidmove
+d3 e2
+Server sent invalid move! Invalidmove
+c8 e8
+Server sent invalid move! Invalidmove
+c6 a5
+Server sent invalid move! Invalidmove
+e8 c8
+Server sent invalid move! Invalidmove
+e2 g4
+Server sent invalid move! Invalidmove
+e6 f6
+Server sent invalid move! Invalidmove
+f6 a6
+Server sent invalid move! Invalidmove
+c8 f8
+Server sent invalid move! Invalidmove
+d4 d2
+Server sent invalid move! Invalidmove
+d2 b2
+Server sent invalid move! Invalidmove
+b2 b4
+Server sent invalid move! Invalidmove
+g2 f2
+Server sent invalid move! Invalidmove
+g4 f5
+Server sent invalid move! Invalidmove
+f2 e1
+Server sent invalid move! Invalidmove
+f8 e8
+Server sent invalid move! Invalidmove
+b4 d4
+Server sent invalid move! Invalidmove
+a5 c4
+Server sent invalid move! Invalidmove
+a6 d6
+Server sent invalid move! Invalidmove
+d1 f2
+Server sent invalid move! Invalidmove
+d6 g3
+Server sent invalid move! Invalidmove
+f5 g4
+Server sent invalid move! Invalidmove
+e1 d2
+Server sent invalid move! Invalidmove
+d2 e2
+Server sent invalid move! Invalidmove
+e8 f8
+Server sent invalid move! Invalidmove
+c4 b6
+Server sent invalid move! Invalidmove
+g3 e5
+Server sent invalid move! Invalidmove
+b6 c4
+Server sent invalid move! Invalidmove
+c4 b2
+Server sent invalid move! Invalidmove
+e5 c5
+Server sent invalid move! Invalidmove
+c5 a5
+Server sent invalid move! Invalidmove
+g4 h5
+Server sent invalid move! Invalidmove
+h5 g6
+Server sent invalid move! Invalidmove
+g6 d3
+Server sent invalid move! Invalidmove
+d3 f5
+Server sent invalid move! Invalidmove
+a5 b4
+Server sent invalid move! Invalidmove
+b4 e1
+Server sent invalid move! Invalidmove
+e1 d2
+Server sent invalid move! Invalidmove
+a3 b4
+Server sent invalid move! Invalidmove
+f2 g4
+Server sent invalid move! Invalidmove
+d4 e4
+Server sent invalid move! Invalidmove
+f8 c8
+Server sent invalid move! Invalidmove
+e4 e5
+Server sent invalid move! Invalidmove
+e2 d3
+Server sent invalid move! Invalidmove
+d2 e3
+Server sent invalid move! Invalidmove
+e5 e4
+Server sent invalid move! Invalidmove
+c8 d8
+Server sent invalid move! Invalidmove
+d3 c3
+Server sent invalid move! Invalidmove
+d8 b8
+Server sent invalid move! Invalidmove
+b2 d1
+Server sent invalid move! Invalidmove
+e4 e5
+Server sent invalid move! Invalidmove
+g4 h2
+Server sent invalid move! Invalidmove
+e5 e6
+Server sent invalid move! Invalidmove
+b4 d6
+Server sent invalid move! Invalidmove
+e3 h3
+Server sent invalid move! Invalidmove
+h3 h4
+Server sent invalid move! Invalidmove
+h4 f4
+Server sent invalid move! Invalidmove
+f5 h3
+Server sent invalid move! Invalidmove
+c3 b3
+Server sent invalid move! Invalidmove
+f4 g4
+Server sent invalid move! Invalidmove
+g4 f4
+Server sent invalid move! Invalidmove
+f4 h4
+Server sent invalid move! Invalidmove
+h2 f3
+Server sent invalid move! Invalidmove
+f3 d2
+Server sent invalid move! Invalidmove
+b8 e8
+Server sent invalid move! Invalidmove
+b3 c4
+Server sent invalid move! Invalidmove
+e8 a8
+Server sent invalid move! Invalidmove
+d1 b2
+Server sent invalid move! Invalidmove
+e6 e5
+Server sent invalid move! Invalidmove
+c4 b5
+Server sent invalid move! Invalidmove
+e5 g5
+Server sent invalid move! Invalidmove
+h4 h5
+Server sent invalid move! Invalidmove
+g5 g4
+Server sent invalid move! Invalidmove
+g4 f4
+Server sent invalid move! Invalidmove
+h3 f1
+Server sent invalid move! Invalidmove
+d6 b4
+Server sent invalid move! Invalidmove
+a8 h8
+Server sent invalid move! Invalidmove
+h8 e8
+Server sent invalid move! Invalidmove
+b4 d6
+Server sent invalid move! Invalidmove
+e8 b8
+Server sent invalid move! Invalidmove
+d6 b4
+Server sent invalid move! Invalidmove
+b5 a5
+Server sent invalid move! Invalidmove
+f1 g2
+Server sent invalid move! Invalidmove
+f4 f6
+Server sent invalid move! Invalidmove
+f6 d6
+Server sent invalid move! Invalidmove
+b4 c3
+Server sent invalid move! Invalidmove
+a5 b6
+Server sent invalid move! Invalidmove
+h5 e2
+Server sent invalid move! Invalidmove
+g2 f1
+Server sent invalid move! Invalidmove
+d2 c4
+Server sent invalid move! Invalidmove
+d6 e6
+Server sent invalid move! Invalidmove
+e2 g2
+Server sent invalid move! Invalidmove
+f1 d3
+Server sent invalid move! Invalidmove
+e6 e4
+Server sent invalid move! Invalidmove
+b8 c8
+Server sent invalid move! Invalidmove
+g2 g5
+Server sent invalid move! Invalidmove
+d3 c2
+Server sent invalid move! Invalidmove
+g5 g7
+Server sent invalid move! Invalidmove
+b6 c6
+Server sent invalid move! Invalidmove
+g7 g3
+Server sent invalid move! Invalidmove
+c3 h8
+Server sent invalid move! Invalidmove
+g3 g2
+Server sent invalid move! Invalidmove
+c6 b6
+Server sent invalid move! Invalidmove
+b6 c5
+Server sent invalid move! Invalidmove
+b2 d1
+Server sent invalid move! Invalidmove
+g2 h2
+Server sent invalid move! Invalidmove
+h2 h4
+Server sent invalid move! Invalidmove
+h4 f2
+Server sent invalid move! Invalidmove
+c8 e8
+Server sent invalid move! Invalidmove
+e4 e3
+Server sent invalid move! Invalidmove
+c4 d6
+Server sent invalid move! Invalidmove
+f2 f5
+Server sent invalid move! Invalidmove
+h8 b2
+Server sent invalid move! Invalidmove
+f5 f6
+Server sent invalid move! Invalidmove
+c2 e4
+Server sent invalid move! Invalidmove
+e3 b3
+Server sent invalid move! Invalidmove
+f6 d4
+Server sent invalid move! Invalidmove
+e4 f5
+Server sent invalid move! Invalidmove
+e8 b8
+Server sent invalid move! Invalidmove
+f5 c2
+Server sent invalid move! Invalidmove
+d4 e4
+Server sent invalid move! Invalidmove
+c2 d3
+Server sent invalid move! Invalidmove
+c5 c6
+Server sent invalid move! Invalidmove
+e4 h1
+Server sent invalid move! Invalidmove
+d3 f5
+Server sent invalid move! Invalidmove
+f5 c2
+Server sent invalid move! Invalidmove
+b2 e5
+Server sent invalid move! Invalidmove
+h1 g2
+Server sent invalid move! Invalidmove
+b3 b5
+Server sent invalid move! Invalidmove
+c6 b6
+Server sent invalid move! Invalidmove
+e5 b2
+Server sent invalid move! Invalidmove
+b5 d5
+Server sent invalid move! Invalidmove
+b8 c8
+Server sent invalid move! Invalidmove
+d5 c5
+Server sent invalid move! Invalidmove
+b2 d4
+Server sent invalid move! Invalidmove
+g2 g3
+Server sent invalid move! Invalidmove
+g3 d3
+Server sent invalid move! Invalidmove
+d3 b5
+Server sent invalid move! Invalidmove
+b5 a4
+Server sent invalid move! Invalidmove
+a4 a3
+Server sent invalid move! Invalidmove
+c5 h5
+Server sent invalid move! Invalidmove
+a3 a6
+Server sent invalid move! Invalidmove
+d4 e5
+Server sent invalid move! Invalidmove
+a6 a4
+Server sent invalid move! Invalidmove
+d1 b2
+Server sent invalid move! Invalidmove
+b6 c5
+Server sent invalid move! Invalidmove
+c2 g6
+Server sent invalid move! Invalidmove
+g6 c2
+Server sent invalid move! Invalidmove
+c8 d8
+Server sent invalid move! Invalidmove
+b2 d3
+Server sent invalid move! Invalidmove
+a4 a1
+Server sent invalid move! Invalidmove
+c5 c4
+Server sent invalid move! Invalidmove
+d8 b8
+Server sent invalid move! Invalidmove
+d3 b4
+Server sent invalid move! Invalidmove
+c4 b3
+Server sent invalid move! Invalidmove
+d6 f5
+Server sent invalid move! Invalidmove
+h5 h4
+Server sent invalid move! Invalidmove
+b4 d3
+Server sent invalid move! Invalidmove
+a1 h1
+Server sent invalid move! Invalidmove
+f5 d4
+Server sent invalid move! Invalidmove
+h4 g4
+Server sent invalid move! Invalidmove
+h1 h2
+Server sent invalid move! Invalidmove
+h2 h3
+Server sent invalid move! Invalidmove
+g4 g7
+Server sent invalid move! Invalidmove
+g7 g3
+Server sent invalid move! Invalidmove
+b3 a2
+Server sent invalid move! Invalidmove
+a2 b1
+Server sent invalid move! Invalidmove
+d3 c1
+Server sent invalid move! Invalidmove
+h3 h1
+Server sent invalid move! Invalidmove
+d4 e6
+Server sent invalid move! Invalidmove
+c2 g6
+Server sent invalid move! Invalidmove
+g3 f3
+Server sent invalid move! Invalidmove
+f3 b3
+Server sent invalid move! Invalidmove
+e5 d4
+Server sent invalid move! Invalidmove
+e6 g5
+Server sent invalid move! Invalidmove
+g6 h5
+Server sent invalid move! Invalidmove
+g5 h3
+Server sent invalid move! Invalidmove
+b3 b5
+Server sent invalid move! Invalidmove
+h1 f3
+Server sent invalid move! Invalidmove
+f3 c3
+Server sent invalid move! Invalidmove
+c3 c6
+Server sent invalid move! Invalidmove
+d4 g1
+Server sent invalid move! Invalidmove
+c6 g2
+Server sent invalid move! Invalidmove
+c1 a2
+Server sent invalid move! Invalidmove
+h5 g6
+Server sent invalid move! Invalidmove
+b8 h8
+Server sent invalid move! Invalidmove
+h8 e8
+Server sent invalid move! Invalidmove
+g2 g5
+Server sent invalid move! Invalidmove
+g6 f5
+Server sent invalid move! Invalidmove
+g1 h2
+Server sent invalid move! Invalidmove
+h2 g1
+Server sent invalid move! Invalidmove
+b1 c2
+Server sent invalid move! Invalidmove
+g5 d2
+Server sent invalid move! Invalidmove
+d2 d6
+Server sent invalid move! Invalidmove
+e8 d8
+Server sent invalid move! Invalidmove
+d6 c5
+Server sent invalid move! Invalidmove
+d8 b8
+Server sent invalid move! Invalidmove
+f5 e4
+Server sent invalid move! Invalidmove
+c2 d2
+Server sent invalid move! Invalidmove
+d2 e1
+Server sent invalid move! Invalidmove
+h3 f2
+Server sent invalid move! Invalidmove
+c5 c1
+Server sent invalid move! Invalidmove
+b8 c8
+Server sent invalid move! Invalidmove
+c1 c2
+Server sent invalid move! Invalidmove
+b5 a5
+Server sent invalid move! Invalidmove
+e4 h1
+Server sent invalid move! Invalidmove
+c2 c4
+Server sent invalid move! Invalidmove
+c8 b8
+Server sent invalid move! Invalidmove
+h1 g2
+Server sent invalid move! Invalidmove
+e1 d1
+Server sent invalid move! Invalidmove
+a5 e5
+Server sent invalid move! Invalidmove
+c4 c1
+Server sent invalid move! Invalidmove
+f2 e4
+Server sent invalid move! Invalidmove
+g1 e3
+Server sent invalid move! Invalidmove
+e3 d2
+Server sent invalid move! Invalidmove
+b8 f8
+Server sent invalid move! Invalidmove
+e5 h5
+Server sent invalid move! Invalidmove
+d2 b4
+Server sent invalid move! Invalidmove
+g2 f3
+Server sent invalid move! Invalidmove
+c1 a3
+Server sent invalid move! Invalidmove
+f8 g8
+Server sent invalid move! Invalidmove
+g8 a8
+Server sent invalid move! Invalidmove
+b4 a5
+Server sent invalid move! Invalidmove
+e4 d2
+Server sent invalid move! Invalidmove
+d1 e2
+Server sent invalid move! Invalidmove
+a3 a4
+Server sent invalid move! Invalidmove
+a8 g8
+Server sent invalid move! Invalidmove
+e2 f2
+Server sent invalid move! Invalidmove
+d2 f1
+Server sent invalid move! Invalidmove
+f3 e4
+Server sent invalid move! Invalidmove
+g8 g4
+Server sent invalid move! Invalidmove
+a4 b5
+Server sent invalid move! Invalidmove
+f2 e1
+Server sent invalid move! Invalidmove
+a5 b4
+Server sent invalid move! Invalidmove
+h5 h3
+Server sent invalid move! Invalidmove
+b5 c4
+Server sent invalid move! Invalidmove
+g4 g3
+Server sent invalid move! Invalidmove
+g3 g4
+Server sent invalid move! Invalidmove
+g4 g3
+Server sent invalid move! Invalidmove
+h3 h5
+Server sent invalid move! Invalidmove
+b4 c5
+Server sent invalid move! Invalidmove
+g3 g1
+Server sent invalid move! Invalidmove
+a2 b4
+Server sent invalid move! Invalidmove
+c4 c3
+Server sent invalid move! Invalidmove
+f1 g3
+Server sent invalid move! Invalidmove
+c3 c1
+Server sent invalid move! Invalidmove
+c5 e3
+Server sent invalid move! Invalidmove
+b4 a2
+Server sent invalid move! Invalidmove
+e1 d2
+Server sent invalid move! Invalidmove
+c1 a3
+Server sent invalid move! Invalidmove
+a3 b4
+Server sent invalid move! Invalidmove
+a2 c1
+Server sent invalid move! Invalidmove
+e4 d5
+Server sent invalid move! Invalidmove
+h5 h2
+Server sent invalid move! Invalidmove
+c1 d3
+Server sent invalid move! Invalidmove
+g1 h1
+Server sent invalid move! Invalidmove
+d2 d1
+Server sent invalid move! Invalidmove
+g3 e2
+Server sent invalid move! Invalidmove
+d5 a2
+Server sent invalid move! Invalidmove
+b4 c4
+Server sent invalid move! Invalidmove
+d3 f4
+Server sent invalid move! Invalidmove
+f4 g2
+Server sent invalid move! Invalidmove
+c4 a6
+Server sent invalid move! Invalidmove
+a6 b5
+Server sent invalid move! Invalidmove
+b5 a6
+Server sent invalid move! Invalidmove
+e3 f2
+Server sent invalid move! Invalidmove
+g2 f4
+Server sent invalid move! Invalidmove
+f4 h3
+Server sent invalid move! Invalidmove
+a6 d6
+Server sent invalid move! Invalidmove
+f2 b6
+Server sent invalid move! Invalidmove
+h3 g1
+Server sent invalid move! Invalidmove
+d6 d3
+Server sent invalid move! Invalidmove
+e2 c3
+Server sent invalid move! Invalidmove
+c3 d5
+Server sent invalid move! Invalidmove
+h2 d2
+Server sent invalid move! Invalidmove
+a2 b1
+Server sent invalid move! Invalidmove
+d1 c1
+Server sent invalid move! Invalidmove
+d3 g6
+Server sent invalid move! Invalidmove
+g6 c2
+Server sent invalid move! Invalidmove
+c2 g6
+Server sent invalid move! Invalidmove
+b6 e3
+Server sent invalid move! Invalidmove
+d5 f6
+Server sent invalid move! Invalidmove
+h1 h2
+Server sent invalid move! Invalidmove
+g6 g7
+Server sent invalid move! Invalidmove
+d2 b2
+Server sent invalid move! Invalidmove
+g7 g6
+Server sent invalid move! Invalidmove
+f6 h5
+Server sent invalid move! Invalidmove
+h2 e2
+Server sent invalid move! Invalidmove
+c1 d1
+Server sent invalid move! Invalidmove
+g6 g4
+Server sent invalid move! Invalidmove
+g4 a4
+Server sent invalid move! Invalidmove
+b2 c2
+Server sent invalid move! Invalidmove
+e3 b6
+Server sent invalid move! Invalidmove
+b6 d4
+Server sent invalid move! Invalidmove
+a4 a3
+Server sent invalid move! Invalidmove
+a3 b2
+Server sent invalid move! Invalidmove
+d4 f2
+Server sent invalid move! Invalidmove
+f2 h4
+Server sent invalid move! Invalidmove
+b2 h8
+Server sent invalid move! Invalidmove
+h8 e8
+Server sent invalid move! Invalidmove
+c2 b2
+Server sent invalid move! Invalidmove
+e8 b8
+Server sent invalid move! Invalidmove
+b2 b5
+Server sent invalid move! Invalidmove
+b5 b4
+Server sent invalid move! Invalidmove
+h5 g3
+Server sent invalid move! Invalidmove
+e2 h2
+Server sent invalid move! Invalidmove
+b1 c2
+Server sent invalid move! Invalidmove
+c2 b1
+Server sent invalid move! Invalidmove
+d1 e2
+Server sent invalid move! Invalidmove
+b8 c8
+Server sent invalid move! Invalidmove
+b4 b2
+Server sent invalid move! Invalidmove
+c8 d8
+Server sent invalid move! Invalidmove
+b1 f5
+Server sent invalid move! Invalidmove
+g3 h1
+Server sent invalid move! Invalidmove
+f5 d3
+Server sent invalid move! Invalidmove
+d3 f5
+Server sent invalid move! Invalidmove
+d8 f8
+Server sent invalid move! Invalidmove
+b2 d2
+Server sent invalid move! Invalidmove
+f8 h8
+Server sent invalid move! Invalidmove
+d2 d6
+Server sent invalid move! Invalidmove
+f5 h3
+Server sent invalid move! Invalidmove
+h3 f5
+Server sent invalid move! Invalidmove
+f5 c2
+Server sent invalid move! Invalidmove
+d6 d1
+Server sent invalid move! Invalidmove
+h4 e1
+Server sent invalid move! Invalidmove
+e2 f3
+Server sent invalid move! Invalidmove
+e1 g3
+Server sent invalid move! Invalidmove
+h8 g8
+Server sent invalid move! Invalidmove
+c2 d3
+Server sent invalid move! Invalidmove
+h2 g2
+Server sent invalid move! Invalidmove
+h1 f2
+Server sent invalid move! Invalidmove
+g8 f8
+Server sent invalid move! Invalidmove
+d3 b5
+Server sent invalid move! Invalidmove
+f8 e8
+Server sent invalid move! Invalidmove
+g1 h3
+Server sent invalid move! Invalidmove
+e8 h8
+Server sent invalid move! Invalidmove
+d1 f1
+Server sent invalid move! Invalidmove
+b5 c4
+Server sent invalid move! Invalidmove
+g2 g1
+Server sent invalid move! Invalidmove
+c4 d5
+Server sent invalid move! Invalidmove
+d5 e4
+Server sent invalid move! Invalidmove
+h8 f6
+Server sent invalid move! Invalidmove
+f6 h4
+Server sent invalid move! Invalidmove
+e4 b1
+Server sent invalid move! Invalidmove
+b1 c2
+Server sent invalid move! Invalidmove
+c2 b3
+Server sent invalid move! Invalidmove
+h3 f4
+Server sent invalid move! Invalidmove
+g3 h2
+Server sent invalid move! Invalidmove
+g1 g8
+Server sent invalid move! Invalidmove
+f4 h5
+Server sent invalid move! Invalidmove
+h4 g5
+Server sent invalid move! Invalidmove
+h2 g3
+Server sent invalid move! Invalidmove
+h5 f4
+Server sent invalid move! Invalidmove
+f2 e4
+Server sent invalid move! Invalidmove
+f3 e2
+Server sent invalid move! Invalidmove
+g5 g6
+Server sent invalid move! Invalidmove
+f4 h5
+Server sent invalid move! Invalidmove
+h5 f4
+Server sent invalid move! Invalidmove
+f4 e6
+Server sent invalid move! Invalidmove
+e6 f4
+Server sent invalid move! Invalidmove
+e4 c3
+Server sent invalid move! Invalidmove
+g8 c8
+Server sent invalid move! Invalidmove
+f1 g1
+Server sent invalid move! Invalidmove
+g3 e1
+Server sent invalid move! Invalidmove
+b3 d1
+Server sent invalid move! Invalidmove
+f4 g2
+Server sent invalid move! Invalidmove
+d1 a4
+Server sent invalid move! Invalidmove
+c8 a8
+Server sent invalid move! Invalidmove
+g6 d3
+Server sent invalid move! Invalidmove
+d3 g3
+Server sent invalid move! Invalidmove
+c3 e4
+Server sent invalid move! Invalidmove
+e2 f2
+Server sent invalid move! Invalidmove
+e1 a5
+Server sent invalid move! Invalidmove
+a5 c3
+Server sent invalid move! Invalidmove
+g3 e5
+Server sent invalid move! Invalidmove
+c3 b2
+Server sent invalid move! Invalidmove
+f2 e3
+Server sent invalid move! Invalidmove
+e5 e6
+Server sent invalid move! Invalidmove
+e6 f6
+Server sent invalid move! Invalidmove
+f6 g5
+Server sent invalid move! Invalidmove
+g5 e5
+Server sent invalid move! Invalidmove
+e5 h8
+Server sent invalid move! Invalidmove
+h8 c8
+Server sent invalid move! Invalidmove
+b2 f6
+Server sent invalid move! Invalidmove
+g1 b1
+Server sent invalid move! Invalidmove
+e3 d3
+Server sent invalid move! Invalidmove
+a4 c2
+Server sent invalid move! Invalidmove
+b1 e1
+Server sent invalid move! Invalidmove
+g2 h4
+Server sent invalid move! Invalidmove
+e4 c3
+Server sent invalid move! Invalidmove
+c8 g8
+Server sent invalid move! Invalidmove
+g8 g2
+Server sent invalid move! Invalidmove
+f6 d4
+Server sent invalid move! Invalidmove
+a8 f8
+Server sent invalid move! Invalidmove
+e1 g1
+Server sent invalid move! Invalidmove
+g2 h3
+Server sent invalid move! Invalidmove
+g1 g6
+Server sent invalid move! Invalidmove
+g6 g4
+Server sent invalid move! Invalidmove
+d4 g1
+Server sent invalid move! Invalidmove
+c3 d1
+Server sent invalid move! Invalidmove
+g4 g7
+Server sent invalid move! Invalidmove
+h4 f5
+Server sent invalid move! Invalidmove
+g1 f2
+Server sent invalid move! Invalidmove
+f8 c8
+Server sent invalid move! Invalidmove
+f2 g1
+Server sent invalid move! Invalidmove
+h3 h1
+Server sent invalid move! Invalidmove
+g7 g4
+Server sent invalid move! Invalidmove
+d1 e3
+Server sent invalid move! Invalidmove
+g4 f4
+Server sent invalid move! Invalidmove
+d3 d2
+Server sent invalid move! Invalidmove
+g1 h2
+Server sent invalid move! Invalidmove
+c8 f8
+Server sent invalid move! Invalidmove
+h1 e4
+Server sent invalid move! Invalidmove
+f4 f3
+Server sent invalid move! Invalidmove
+c2 d3
+Server sent invalid move! Invalidmove
+f8 g8
+Server sent invalid move! Invalidmove
+f5 d4
+Server sent invalid move! Invalidmove
+h2 g1
+Server sent invalid move! Invalidmove
+g8 e8
+Server sent invalid move! Invalidmove
+d3 b5
+Server sent invalid move! Invalidmove
+d2 c1
+Server sent invalid move! Invalidmove
+d4 e6
+Server sent invalid move! Invalidmove
+f3 g3
+f1 f2
+Server sent invalid move! Invalidmove
+e3 c4
+Server sent invalid move! Invalidmove
+e4 e2
+Server sent invalid move! Invalidmove
+c4 b6
+Server sent invalid move! Invalidmove
+e8 b8
+Server sent invalid move! Invalidmove
+e6 d8
+Server sent invalid move! Invalidmove
+b6 a8
+Server sent invalid move! Invalidmove
+g3 g4
+Server sent invalid move! Invalidmove
+g1 h2
+Server sent invalid move! Invalidmove
+e2 e4
+Server sent invalid move! Invalidmove
+g4 g1
+Server sent invalid move! Invalidmove
+e4 b1
+Server sent invalid move! Invalidmove
+g1 g5
+Server sent invalid move! Invalidmove
+b1 d3
+Server sent invalid move! Invalidmove
+g5 g6
+Server sent invalid move! Invalidmove
+a8 b6
+Server sent invalid move! Invalidmove
+h2 f4
+Server sent invalid move! Invalidmove
+g6 g2
+Server sent invalid move! Invalidmove
+g2 g4
+Server sent invalid move! Invalidmove
+d3 c3
+Server sent invalid move! Invalidmove
+g4 g1
+Server sent invalid move! Invalidmove
+g1 e1
+Server sent invalid move! Invalidmove
+e1 g1
+Server sent invalid move! Invalidmove
+c3 b4
+Server sent invalid move! Invalidmove
+f4 g3
+Server sent invalid move! Invalidmove
+b4 c5
+Server sent invalid move! Invalidmove
+b6 a4
+Server sent invalid move! Invalidmove
+c5 b4
+Server sent invalid move! Invalidmove
+c1 b1
+Server sent invalid move! Invalidmove
+b5 e2
+Server sent invalid move! Invalidmove
+e2 f1
+Server sent invalid move! Invalidmove
+b4 d6
+Server sent invalid move! Invalidmove
+g3 h4
+Server sent invalid move! Invalidmove
+g1 g3
+Server sent invalid move! Invalidmove
+d6 b6
+Server sent invalid move! Invalidmove
+f1 e2
+Server sent invalid move! Invalidmove
+b8 c8
+Server sent invalid move! Invalidmove
+a4 c5
+Server sent invalid move! Invalidmove
+g3 g7
+Server sent invalid move! Invalidmove
+g7 g1
+Server sent invalid move! Invalidmove
+g1 g8
+Server sent invalid move! Invalidmove
+b1 c2
+Server sent invalid move! Invalidmove
+c5 b3
+Server sent invalid move! Invalidmove
+e2 a6
+Server sent invalid move! Invalidmove
+a6 b5
+Server sent invalid move! Invalidmove
+b3 c1
+Server sent invalid move! Invalidmove
+c1 b3
+Server sent invalid move! Invalidmove
+b6 g6
+Server sent invalid move! Invalidmove
+b3 d2
+Server sent invalid move! Invalidmove
+h4 f6
+Server sent invalid move! Invalidmove
+f6 b2
+Server sent invalid move! Invalidmove
+g6 g2
+Server sent invalid move! Invalidmove
+b5 c6
+Server sent invalid move! Invalidmove
+b2 c1
+Server sent invalid move! Invalidmove
+c2 b3
+Server sent invalid move! Invalidmove
+g2 e2
+Server sent invalid move! Invalidmove
+b3 a4
+Server sent invalid move! Invalidmove
+e2 h2
+Server sent invalid move! Invalidmove
+h2 h5
+Server sent invalid move! Invalidmove
+c8 b8
+Server sent invalid move! Invalidmove
+g8 e8
+Server sent invalid move! Invalidmove
+h5 b5
+Server sent invalid move! Invalidmove
+b8 a8
+Server sent invalid move! Invalidmove
+a4 b3
+Server sent invalid move! Invalidmove
+e8 g8
+Server sent invalid move! Invalidmove
+c1 a3
+Server sent invalid move! Invalidmove
+c6 d5
+Server sent invalid move! Invalidmove
+b5 e2
+Server sent invalid move! Invalidmove
+g8 e8
+Server sent invalid move! Invalidmove
+d5 g2
+Server sent invalid move! Invalidmove
+e2 e1
+Server sent invalid move! Invalidmove
+e8 g8
+Server sent invalid move! Invalidmove
+g2 h3
+Server sent invalid move! Invalidmove
+b3 c4
+Server sent invalid move! Invalidmove
+g8 f8
+Server sent invalid move! Invalidmove
+h3 g2
+Server sent invalid move! Invalidmove
+e1 g3
+Server sent invalid move! Invalidmove
+c4 d3
+Server sent invalid move! Invalidmove
+d2 f1
+Server sent invalid move! Invalidmove
+g2 h3
+Server sent invalid move! Invalidmove
+g3 g6
+Server sent invalid move! Invalidmove
+d3 c4
+Server sent invalid move! Invalidmove
+f8 g8
+Server sent invalid move! Invalidmove
+g6 g4
+Server sent invalid move! Invalidmove
+c4 d3
+Server sent invalid move! Invalidmove
+d3 c2
+Server sent invalid move! Invalidmove
+g4 f3
+Server sent invalid move! Invalidmove
+a3 b2
+Server sent invalid move! Invalidmove
+c2 d2
+Server sent invalid move! Invalidmove
+f3 f5
+Server sent invalid move! Invalidmove
+g8 g1
+Server sent invalid move! Invalidmove
+f5 d3
+Server sent invalid move! Invalidmove
+d8 e6
+Server sent invalid move! Invalidmove
+e6 f8
+Server sent invalid move! Invalidmove
+b2 h8
+Server sent invalid move! Invalidmove
+d3 d4
+Server sent invalid move! Invalidmove
+d2 e3
+Server sent invalid move! Invalidmove
+h3 g4
+Server sent invalid move! Invalidmove
+a8 b8
+Server sent invalid move! Invalidmove
+e3 e4
+Server sent invalid move! Invalidmove
+d4 c5
+Server sent invalid move! Invalidmove
+h8 f6
+Server sent invalid move! Invalidmove
+e4 f5
+Server sent invalid move! Invalidmove
+f6 d4
+Server sent invalid move! Invalidmove
+f5 f6
+Server sent invalid move! Invalidmove
+b8 c8
+Server sent invalid move! Invalidmove
+f6 g5
+Server sent invalid move! Invalidmove
+g5 h4
+Server sent invalid move! Invalidmove
+d4 f2
+Server sent invalid move! Invalidmove
+c5 a5
+Server sent invalid move! Invalidmove
+g4 f5
+Server sent invalid move! Invalidmove
+c8 b8
+Server sent invalid move! Invalidmove
+f2 b6
+Server sent invalid move! Invalidmove
+g1 g3
+Server sent invalid move! Invalidmove
+f1 h2
+Server sent invalid move! Invalidmove
+h4 h3
+Server sent invalid move! Invalidmove
+g3 g7
+Server sent invalid move! Invalidmove
+a5 a6
+Server sent invalid move! Invalidmove
+b8 c8
+Server sent invalid move! Invalidmove
+b6 g1
+Server sent invalid move! Invalidmove
+a6 f1
+Server sent invalid move! Invalidmove
+f1 b5
+Server sent invalid move! Invalidmove
+c8 e8
+Server sent invalid move! Invalidmove
+h2 f3
+Server sent invalid move! Invalidmove
+b5 b3
+Server sent invalid move! Invalidmove
+g1 d4
+Server sent invalid move! Invalidmove
+g7 g4
+Server sent invalid move! Invalidmove
+h3 g2
+Server sent invalid move! Invalidmove
+e8 d8
+Server sent invalid move! Invalidmove
+g4 g3
+Server sent invalid move! Invalidmove
+f5 e6
+Server sent invalid move! Invalidmove
+b3 e3
+Server sent invalid move! Invalidmove
+d4 c5
+Server sent invalid move! Invalidmove
+e3 c1
+Server sent invalid move! Invalidmove
+c1 g5
+Server sent invalid move! Invalidmove
+f3 e1
+Server sent invalid move! Invalidmove
+c5 f2
+Server sent invalid move! Invalidmove
+g5 e5
+Server sent invalid move! Invalidmove
+g2 h1
+Server sent invalid move! Invalidmove
+e5 c3
+Server sent invalid move! Invalidmove
+c3 g7
+Server sent invalid move! Invalidmove
+h1 g1
+Server sent invalid move! Invalidmove
+g7 f6
+Server sent invalid move! Invalidmove
+d8 a8
+Server sent invalid move! Invalidmove
+f6 g5
+Server sent invalid move! Invalidmove
+g5 e5
+Server sent invalid move! Invalidmove
+e1 d3
+Server sent invalid move! Invalidmove
+d3 b4
+Server sent invalid move! Invalidmove
+e5 e4
+Server sent invalid move! Invalidmove
+e4 g2
+Server sent invalid move! Invalidmove
+b4 d3
+Server sent invalid move! Invalidmove
+d3 c5
+Server sent invalid move! Invalidmove
+a8 e8
+Server sent invalid move! Invalidmove
+g3 b3
+Server sent invalid move! Invalidmove
+b3 g3
+Server sent invalid move! Invalidmove
+c5 b3
+Server sent invalid move! Invalidmove
+g2 h1
+Server sent invalid move! Invalidmove
+f2 d4
+Server sent invalid move! Invalidmove
+g1 f1
+Server sent invalid move! Invalidmove
+d4 e5
+Server sent invalid move! Invalidmove
+e5 f6
+Server sent invalid move! Invalidmove
+g3 c3
+Server sent invalid move! Invalidmove
+b3 d2
+Server sent invalid move! Invalidmove
+h1 h2
+Server sent invalid move! Invalidmove
+f8 g6
+Server sent invalid move! Invalidmove
+e6 h3
+Server sent invalid move! Invalidmove
+h3 e6
+Server sent invalid move! Invalidmove
+h2 h3
+Server sent invalid move! Invalidmove
+h3 e3
+Server sent invalid move! Invalidmove
+e6 a2
+Server sent invalid move! Invalidmove
+f1 f2
+Server sent invalid move! Invalidmove
+f6 d4
+Server sent invalid move! Invalidmove
+e3 e2
+Server sent invalid move! Invalidmove
+f2 f1
+Server sent invalid move! Invalidmove
+c3 g3
+Server sent invalid move! Invalidmove
+e2 f3
+Server sent invalid move! Invalidmove
+e8 b8
+Server sent invalid move! Invalidmove
+a2 b3
+Server sent invalid move! Invalidmove
+f1 f2
+Server sent invalid move! Invalidmove
+d2 c4
+Server sent invalid move! Invalidmove
+g6 e5
+Server sent invalid move! Invalidmove
+g3 g6
+Server sent invalid move! Invalidmove
+f3 h3
+Server sent invalid move! Invalidmove
+b8 g8
+Server sent invalid move! Invalidmove
+f2 g2
+Server sent invalid move! Invalidmove
+d4 b2
+Server sent invalid move! Invalidmove
+g8 e8
+Server sent invalid move! Invalidmove
+g2 f2
+Server sent invalid move! Invalidmove
+f2 e1
+Server sent invalid move! Invalidmove
+e5 d3
+Server sent invalid move! Invalidmove
+g6 d6
+Server sent invalid move! Invalidmove
+d3 b4
+Server sent invalid move! Invalidmove
+e8 g8
+Server sent invalid move! Invalidmove
+b3 c2
+Server sent invalid move! Invalidmove
+h3 g4
+Server sent invalid move! Invalidmove
+b2 f6
+Server sent invalid move! Invalidmove
+e1 d2
+Server sent invalid move! Invalidmove
+d2 d3
+Server sent invalid move! Invalidmove
+f6 c3
+Server sent invalid move! Invalidmove
+g4 g5
+Server sent invalid move! Invalidmove
+d6 c6
+Server sent invalid move! Invalidmove
+g5 e3
+Server sent invalid move! Invalidmove
+c6 a6
+Server sent invalid move! Invalidmove
+c3 h8
+Server sent invalid move! Invalidmove
+c4 d2
+Server sent invalid move! Invalidmove
+b4 c6
+Server sent invalid move! Invalidmove
+e3 d4
+Server sent invalid move! Invalidmove
+d2 f3
+Server sent invalid move! Invalidmove
+c6 e5
+Server sent invalid move! Invalidmove
+h8 f6
+Server sent invalid move! Invalidmove
+d4 b4
+Server sent invalid move! Invalidmove
+b4 b6
+Server sent invalid move! Invalidmove
+b6 d6
+Server sent invalid move! Invalidmove
+f3 g5
+Server sent invalid move! Invalidmove
+g8 g7
+Server sent invalid move! Invalidmove
+d6 d4
+Server sent invalid move! Invalidmove
+g5 e4
+Server sent invalid move! Invalidmove
+d4 d6
+Server sent invalid move! Invalidmove
+d3 c4
+Server sent invalid move! Invalidmove
+e4 d2
+Server sent invalid move! Invalidmove
+d6 d5
+Server sent invalid move! Invalidmove
+c2 d1
+Server sent invalid move! Invalidmove
+a6 a2
+Server sent invalid move! Invalidmove
+g7 g6
+Server sent invalid move! Invalidmove
+d5 h1
+Server sent invalid move! Invalidmove
+c4 c3
+Server sent invalid move! Invalidmove
+d1 f3
+Server sent invalid move! Invalidmove
+h1 h5
+Server sent invalid move! Invalidmove
+a2 a1
+Server sent invalid move! Invalidmove
+g6 g3
+Server sent invalid move! Invalidmove
+c3 c2
+Server sent invalid move! Invalidmove
+a1 a2
+Server sent invalid move! Invalidmove
+h5 f5
+Server sent invalid move! Invalidmove
+f3 h1
+Server sent invalid move! Invalidmove
+f5 g4
+Server sent invalid move! Invalidmove
+a2 a1
+Server sent invalid move! Invalidmove
+c2 d3
+Server sent invalid move! Invalidmove
+g4 g8
+Server sent invalid move! Invalidmove
+g8 g6
+Server sent invalid move! Invalidmove
+f6 g5
+Server sent invalid move! Invalidmove
+h1 e4
+Server sent invalid move! Invalidmove
+a1 a4
+Server sent invalid move! Invalidmove
+d2 f3
+Server sent invalid move! Invalidmove
+d3 d4
+Server sent invalid move! Invalidmove
+a4 a3
+Server sent invalid move! Invalidmove
+f3 e1
+Server sent invalid move! Invalidmove
+g3 d3
+Server sent invalid move! Invalidmove
+d3 e3
+Server sent invalid move! Invalidmove
+e4 b1
+Server sent invalid move! Invalidmove
+e5 c4
+Server sent invalid move! Invalidmove
+d4 e4
+Server sent invalid move! Invalidmove
+c4 e5
+Server sent invalid move! Invalidmove
+g6 f6
+Server sent invalid move! Invalidmove
+e3 d3
+Server sent invalid move! Invalidmove
+f6 f5
+Server sent invalid move! Invalidmove
+d3 c3
+Server sent invalid move! Invalidmove
+e1 f3
+Server sent invalid move! Invalidmove
+c3 c1
+Server sent invalid move! Invalidmove
+f5 f6
+Server sent invalid move! Invalidmove
+e5 c6
+Server sent invalid move! Invalidmove
+f6 b2
+Server sent invalid move! Invalidmove
+b2 d4
+Server sent invalid move! Invalidmove
+d4 h8
+Server sent invalid move! Invalidmove
+f3 h2
+Server sent invalid move! Invalidmove
+b1 c2
+Server sent invalid move! Invalidmove
+a3 e3
+Server sent invalid move! Invalidmove
+e4 f4
+Server sent invalid move! Invalidmove
+c1 a1
+Server sent invalid move! Invalidmove
+g5 f6
+Server sent invalid move! Invalidmove
+e3 b3
+Server sent invalid move! Invalidmove
+f6 h4
+Server sent invalid move! Invalidmove
+a1 a2
+Server sent invalid move! Invalidmove
+a2 a3
+Server sent invalid move! Invalidmove
+b3 b2
+Server sent invalid move! Invalidmove
+a3 c3
+Server sent invalid move! Invalidmove
+h8 a8
+Server sent invalid move! Invalidmove
+c3 c4
+Server sent invalid move! Invalidmove
+c2 b3
+Server sent invalid move! Invalidmove
+h2 f1
+Server sent invalid move! Invalidmove
+f1 e3
+Server sent invalid move! Invalidmove
+e3 f5
+Server sent invalid move! Invalidmove
+b2 g2
+Server sent invalid move! Invalidmove
+b3 a2
+Server sent invalid move! Invalidmove
+c6 b8
+Server sent invalid move! Invalidmove
+a2 b1
+Server sent invalid move! Invalidmove
+c4 e4
+Server sent invalid move! Invalidmove
+e4 d4
+Server sent invalid move! Invalidmove
+g2 h2
+Server sent invalid move! Invalidmove
+h4 f6
+Server sent invalid move! Invalidmove
+h2 e2
+Server sent invalid move! Invalidmove
+f6 e5
+Server sent invalid move! Invalidmove
+e2 b2
+Server sent invalid move! Invalidmove
+b2 d2
+Server sent invalid move! Invalidmove
+f5 g3
+Server sent invalid move! Invalidmove
+d2 c2
+Server sent invalid move! Invalidmove
+d4 d1
+Server sent invalid move! Invalidmove
+d1 d4
+Server sent invalid move! Invalidmove
+c2 h2
+Server sent invalid move! Invalidmove
+f4 f3
+Server sent invalid move! Invalidmove
+d4 d2
+Server sent invalid move! Invalidmove
+e5 d6
+Server sent invalid move! Invalidmove
+f3 g2
+Server sent invalid move! Invalidmove
+b1 c2
+Server sent invalid move! Invalidmove
+d6 f4
+Server sent invalid move! Invalidmove
+g2 f1
+Server sent invalid move! Invalidmove
+h2 e2
+Server sent invalid move! Invalidmove
+f4 e3
+Server sent invalid move! Invalidmove
+e3 f2
+Server sent invalid move! Invalidmove
+f2 d4
+Server sent invalid move! Invalidmove
+f1 e1
+Server sent invalid move! Invalidmove
+c2 e4
+Server sent invalid move! Invalidmove
+d4 c5
+Server sent invalid move! Invalidmove
+e1 d1
+Server sent invalid move! Invalidmove
+d2 d3
+Server sent invalid move! Invalidmove
+e2 h2
+Server sent invalid move! Invalidmove
+h2 c2
+Server sent invalid move! Invalidmove
+e4 f3
+Server sent invalid move! Invalidmove
+d3 b3
+Server sent invalid move! Invalidmove
+c5 e3
+Server sent invalid move! Invalidmove
+e3 d4
+Server sent invalid move! Invalidmove
+d4 e5
+Server sent invalid move! Invalidmove
+c2 f2
+Server sent invalid move! Invalidmove
+b3 b5
+Server sent invalid move! Invalidmove
+d1 e1
+Server sent invalid move! Invalidmove
+e5 b2
+Server sent invalid move! Invalidmove
+g3 e2
+Server sent invalid move! Invalidmove
+e1 d1
+Server sent invalid move! Invalidmove
+f3 h5
+Server sent invalid move! Invalidmove
+b5 a5
+Server sent invalid move! Invalidmove
+f2 h2
+Server sent invalid move! Invalidmove
+e2 f4
+Server sent invalid move! Invalidmove
+a5 g5
+Server sent invalid move! Invalidmove
+h5 f3
+Server sent invalid move! Invalidmove
+d1 e1
+Server sent invalid move! Invalidmove
+f3 c6
+Server sent invalid move! Invalidmove
+b2 f6
+Server sent invalid move! Invalidmove
+h2 d2
+Server sent invalid move! Invalidmove
+d2 d4
+Server sent invalid move! Invalidmove
+d4 a4
+Server sent invalid move! Invalidmove
+a4 d4
+Server sent invalid move! Invalidmove
+f4 g2
+Server sent invalid move! Invalidmove
+d4 g4
+Server sent invalid move! Invalidmove
+g5 g8
+Server sent invalid move! Invalidmove
+c6 f3
+Server sent invalid move! Invalidmove
+g4 c4
+Server sent invalid move! Invalidmove
+g8 c8
+Server sent invalid move! Invalidmove
+c4 h4
+Server sent invalid move! Invalidmove
+f6 b2
+Server sent invalid move! Invalidmove
+h4 g4
+Server sent invalid move! Invalidmove
+f3 e4
+Server sent invalid move! Invalidmove
+c8 d8
+Server sent invalid move! Invalidmove
+b2 e5
+Server sent invalid move! Invalidmove
+d8 e8
+Server sent invalid move! Invalidmove
+b8 a6
+Server sent invalid move! Invalidmove
+e4 f3
+Server sent invalid move! Invalidmove
+f3 d5
+Server sent invalid move! Invalidmove
+a6 b4
+Server sent invalid move! Invalidmove
+e5 h2
+Server sent invalid move! Invalidmove
+g4 g6
+Server sent invalid move! Invalidmove
+e1 f1
+Server sent invalid move! Invalidmove
+f1 e2
+Server sent invalid move! Invalidmove
+e2 d3
+Server sent invalid move! Invalidmove
+d3 c2
+Server sent invalid move! Invalidmove
+c2 c3
+Server sent invalid move! Invalidmove
+c3 d4
+Server sent invalid move! Invalidmove
+g6 e6
+Server sent invalid move! Invalidmove
+b4 a2
+Server sent invalid move! Invalidmove
+g2 h4
+Server sent invalid move! Invalidmove
+e8 d8
+Server sent invalid move! Invalidmove
+a2 c3
+Server sent invalid move! Invalidmove
+d4 e5
+Server sent invalid move! Invalidmove
+e6 b6
+Server sent invalid move! Invalidmove
+a8 b8
+Server sent invalid move! Invalidmove
+e5 f5
+Server sent invalid move! Invalidmove
+c3 b5
+Server sent invalid move! Invalidmove
+d8 f8
+Server sent invalid move! Invalidmove
+f5 g5
+Server sent invalid move! Invalidmove
+b6 c6
+Server sent invalid move! Invalidmove
+b5 c3
+Server sent invalid move! Invalidmove
+h2 e5
+Server sent invalid move! Invalidmove
+b8 e8
+Server sent invalid move! Invalidmove
+e5 h2
+Server sent invalid move! Invalidmove
+h2 f4
+Server sent invalid move! Invalidmove
+c6 b6
+Server sent invalid move! Invalidmove
+b6 b1
+Server sent invalid move! Invalidmove
+d5 g2
+Server sent invalid move! Invalidmove
+e8 d8
+Server sent invalid move! Invalidmove
+b1 c1
+Server sent invalid move! Invalidmove
+g2 f3
+Server sent invalid move! Invalidmove
+c3 e4
+Server sent invalid move! Invalidmove
+c1 e1
+Server sent invalid move! Invalidmove
+f3 g2
+Server sent invalid move! Invalidmove
+f4 c1
+Server sent invalid move! Invalidmove
+d8 c8
+Server sent invalid move! Invalidmove
+e4 g3
+Server sent invalid move! Invalidmove
+h4 f5
+Server sent invalid move! Invalidmove
+g5 f6
+Server sent invalid move! Invalidmove
+c8 b8
+Server sent invalid move! Invalidmove
+f6 g6
+Server sent invalid move! Invalidmove
+e1 h1
+Server sent invalid move! Invalidmove
+f8 g8
+Server sent invalid move! Invalidmove
+g3 e2
+Server sent invalid move! Invalidmove
+f5 g3
+Server sent invalid move! Invalidmove
+b8 e8
+Server sent invalid move! Invalidmove
+e8 d8
+Server sent invalid move! Invalidmove
+h1 e1
+Server sent invalid move! Invalidmove
+c1 g5
+Server sent invalid move! Invalidmove
+e1 c1
+Server sent invalid move! Invalidmove
+c1 c4
+Server sent invalid move! Invalidmove
+c4 d4
+Server sent invalid move! Invalidmove
+g6 f5
+Server sent invalid move! Invalidmove
+g3 h1
+Server sent invalid move! Invalidmove
+h1 f2
+Server sent invalid move! Invalidmove
+e2 c3
+Server sent invalid move! Invalidmove
+g2 c6
+Server sent invalid move! Invalidmove
+d8 a8
+Server sent invalid move! Invalidmove
+d4 g4
+Server sent invalid move! Invalidmove
+f5 g6
+Server sent invalid move! Invalidmove
+c3 e4
+Server sent invalid move! Invalidmove
+c6 b5
+Server sent invalid move! Invalidmove
+g6 h5
+Server sent invalid move! Invalidmove
+b5 f1
+Server sent invalid move! Invalidmove
+f1 a6
+Server sent invalid move! Invalidmove
+g8 c8
+Server sent invalid move! Invalidmove
+g5 f4
+Server sent invalid move! Invalidmove
+a8 b8
+Server sent invalid move! Invalidmove
+a6 b5
+Server sent invalid move! Invalidmove
+b8 a8
+Server sent invalid move! Invalidmove
+f4 g3
+Server sent invalid move! Invalidmove
+b5 a6
+Server sent invalid move! Invalidmove
+c8 h8
+Server sent invalid move! Invalidmove
+e4 c3
+Server sent invalid move! Invalidmove
+g4 f4
+Server sent invalid move! Invalidmove
+c3 a4
+Server sent invalid move! Invalidmove
+f2 h3
+Server sent invalid move! Invalidmove
+a8 f8
+Server sent invalid move! Invalidmove
+f4 f3
+Server sent invalid move! Invalidmove
+a4 b6
+Server sent invalid move! Invalidmove
+h3 g5
+Server sent invalid move! Invalidmove
+a6 f1
+Server sent invalid move! Invalidmove
+g3 f2
+Server sent invalid move! Invalidmove
+b6 a8
+Server sent invalid move! Invalidmove
+f3 h3
+Server sent invalid move! Invalidmove
+f1 c4
+Server sent invalid move! Invalidmove
+f8 e8
+Server sent invalid move! Invalidmove
+f2 d4
+Server sent invalid move! Invalidmove
+d4 c3
+Server sent invalid move! Invalidmove
+c3 b2
+Server sent invalid move! Invalidmove
+e8 f8
+Server sent invalid move! Invalidmove
+f8 d8
+Server sent invalid move! Invalidmove
+g5 f3
+Server sent invalid move! Invalidmove
+c4 d3
+Server sent invalid move! Invalidmove
+d3 f1
+Server sent invalid move! Invalidmove
+f1 b5
+Server sent invalid move! Invalidmove
+f3 g5
+Server sent invalid move! Invalidmove
+a8 b6
+Server sent invalid move! Invalidmove
+b5 a6
+Server sent invalid move! Invalidmove
+h3 d3
+Server sent invalid move! Invalidmove
+h5 g6
+Server sent invalid move! Invalidmove
+g6 g7
+Server sent invalid move! Invalidmove
+d3 d6
+Server sent invalid move! Invalidmove
+d6 f6
+Server sent invalid move! Invalidmove
+b6 a4
+Server sent invalid move! Invalidmove
+a6 c4
+Server sent invalid move! Invalidmove
+c4 d3
+Server sent invalid move! Invalidmove
+d3 c2
+Server sent invalid move! Invalidmove
+h8 e8
+Server sent invalid move! Invalidmove
+f6 d6
+Server sent invalid move! Invalidmove
+d6 f6
+Server sent invalid move! Invalidmove
+f6 a6
+Server sent invalid move! Invalidmove
+c2 d3
+Server sent invalid move! Invalidmove
+g5 e6
+Server sent invalid move! Invalidmove
+d3 c4
+Server sent invalid move! Invalidmove
+c4 b5
+Server sent invalid move! Invalidmove
+e6 d4
+Server sent invalid move! Invalidmove
+d4 c6
+Server sent invalid move! Invalidmove
+d8 b8
+Server sent invalid move! Invalidmove
+c6 d8
+Server sent invalid move! Invalidmove
+a6 c6
+Server sent invalid move! Invalidmove
+c6 b6
+Server sent invalid move! Invalidmove
+e8 h8
+Server sent invalid move! Invalidmove
+b2 c1
+Server sent invalid move! Invalidmove
+d8 e6
+Server sent invalid move! Invalidmove
+g7 f8
+Server sent invalid move! Invalidmove
+c1 d2
+Server sent invalid move! Invalidmove
+b6 d6
+Server sent invalid move! Invalidmove
+h8 g8
+Server sent invalid move! Invalidmove
+a4 c5
+Server sent invalid move! Invalidmove
+b5 e2
+Server sent invalid move! Invalidmove
+g8 g4
+Server sent invalid move! Invalidmove
+g4 h4
+Server sent invalid move! Invalidmove
+h4 b4
+Server sent invalid move! Invalidmove
+e6 d4
+Server sent invalid move! Invalidmove
+b4 b1
+Server sent invalid move! Invalidmove
+b1 b2
+Server sent invalid move! Invalidmove
+c5 d3
+Server sent invalid move! Invalidmove
+b2 b3
+Server sent invalid move! Invalidmove
+d6 c6
+Server sent invalid move! Invalidmove
+d2 a5
+Server sent invalid move! Invalidmove
+a5 b4
+Server sent invalid move! Invalidmove
+d3 c1
+Server sent invalid move! Invalidmove
+b4 a3
+Server sent invalid move! Invalidmove
+b3 f3
+Server sent invalid move! Invalidmove
+b8 d8
+Server sent invalid move! Invalidmove
+c6 b6
+Server sent invalid move! Invalidmove
+f3 g3
+Server sent invalid move! Invalidmove
+b6 b3
+Server sent invalid move! Invalidmove
+f8 e8
+Server sent invalid move! Invalidmove
+d8 b8
+Server sent invalid move! Invalidmove
+c1 d3
+Server sent invalid move! Invalidmove
+b8 c8
+Server sent invalid move! Invalidmove
+b3 b4
+Server sent invalid move! Invalidmove
+g3 g5
+Server sent invalid move! Invalidmove
+d3 b2
+Server sent invalid move! Invalidmove
+b4 a4
+Server sent invalid move! Invalidmove
+a4 b4
+Server sent invalid move! Invalidmove
+g5 a5
+Server sent invalid move! Invalidmove
+b2 d3
+Server sent invalid move! Invalidmove
+d3 c5
+Server sent invalid move! Invalidmove
+e2 f1
+Server sent invalid move! Invalidmove
+c8 a8
+Server sent invalid move! Invalidmove
+c5 a4
+Server sent invalid move! Invalidmove
+a5 c5
+Server sent invalid move! Invalidmove
+b4 b6
+Server sent invalid move! Invalidmove
+d4 e6
+Server sent invalid move! Invalidmove
+e8 f8
+Server sent invalid move! Invalidmove
+e6 d4
+Server sent invalid move! Invalidmove
+a4 c3
+Server sent invalid move! Invalidmove
+f1 b5
+Server sent invalid move! Invalidmove
+c3 d1
+Server sent invalid move! Invalidmove
+d4 f3
+Server sent invalid move! Invalidmove
+f3 g5
+Server sent invalid move! Invalidmove
+a3 c1
+Server sent invalid move! Invalidmove
+c5 e5
+Server sent invalid move! Invalidmove
+f8 g8
+Server sent invalid move! Invalidmove
+g5 h3
+Server sent invalid move! Invalidmove
+b6 a6
+Server sent invalid move! Invalidmove
+g8 h8
+Server sent invalid move! Invalidmove
+e5 e2
+Server sent invalid move! Invalidmove
+a6 d6
+Server sent invalid move! Invalidmove
+d6 e6
+Server sent invalid move! Invalidmove
+e2 c2
+Server sent invalid move! Invalidmove
+c1 d2
+Server sent invalid move! Invalidmove
+e6 e2
+Server sent invalid move! Invalidmove
+d1 c3
+Server sent invalid move! Invalidmove
+c2 c1
+Server sent invalid move! Invalidmove
+c1 f1
+Server sent invalid move! Invalidmove
+e2 e5
+Server sent invalid move! Invalidmove
+f1 f4
+Server sent invalid move! Invalidmove
+a8 f8
+Server sent invalid move! Invalidmove
+h3 g5
+Server sent invalid move! Invalidmove
+f8 g8
+Server sent invalid move! Invalidmove
+e5 e2
+Server sent invalid move! Invalidmove
+g8 d8
+Server sent invalid move! Invalidmove
+h8 g8
+Server sent invalid move! Invalidmove
+e2 h2
+Server sent invalid move! Invalidmove
+f4 a4
+Server sent invalid move! Invalidmove
+g5 e4
+Server sent invalid move! Invalidmove
+a4 a5
+Server sent invalid move! Invalidmove
+e4 g5
+Server sent invalid move! Invalidmove
+c3 d1
+Server sent invalid move! Invalidmove
+g8 g7
+Server sent invalid move! Invalidmove
+g5 h3
+Server sent invalid move! Invalidmove
+b5 a4
+Server sent invalid move! Invalidmove
+a4 c2
+Server sent invalid move! Invalidmove
+d2 c3
+Server sent invalid move! Invalidmove
+h2 g2
+Server sent invalid move! Invalidmove
+c2 b3
+Server sent invalid move! Invalidmove
+g2 g4
+Server sent invalid move! Invalidmove
+c3 d4
+Server sent invalid move! Invalidmove
+d8 a8
+Server sent invalid move! Invalidmove
+b3 d5
+Server sent invalid move! Invalidmove
+g7 g8
+Server sent invalid move! Invalidmove
+g4 g1
+Server sent invalid move! Invalidmove
+g1 h1
+Server sent invalid move! Invalidmove
+d4 h8
+Server sent invalid move! Invalidmove
+h3 g5
+Server sent invalid move! Invalidmove
+h8 a1
+Server sent invalid move! Invalidmove
+d5 e6
+Server sent invalid move! Invalidmove
+e6 a2
+Server sent invalid move! Invalidmove
+g8 f8
+Server sent invalid move! Invalidmove
+g5 e4
+Server sent invalid move! Invalidmove
+h1 e1
+Server sent invalid move! Invalidmove
+e1 e2
+Server sent invalid move! Invalidmove
+a5 d5
+Server sent invalid move! Invalidmove
+a8 c8
+Server sent invalid move! Invalidmove
+d5 e5
+Server sent invalid move! Invalidmove
+e5 g5
+Server sent invalid move! Invalidmove
+g5 g2
+Server sent invalid move! Invalidmove
+e4 f6
+Server sent invalid move! Invalidmove
+c8 e8
+Server sent invalid move! Invalidmove
+f6 g4
+Server sent invalid move! Invalidmove
+d1 f2
+Server sent invalid move! Invalidmove
+f8 g8
+Server sent invalid move! Invalidmove
+a2 e6
+Server sent invalid move! Invalidmove
+g8 f8
+Server sent invalid move! Invalidmove
+g2 g1
+Server sent invalid move! Invalidmove
+e2 d2
+Server sent invalid move! Invalidmove
+d2 d6
+Server sent invalid move! Invalidmove
+a1 d4
+Server sent invalid move! Invalidmove
+e8 b8
+Server sent invalid move! Invalidmove
+g4 e5
+Server sent invalid move! Invalidmove
+d6 d5
+Server sent invalid move! Invalidmove
+e5 c4
+Server sent invalid move! Invalidmove
+f2 g4
+Server sent invalid move! Invalidmove
+g1 f1
+Server sent invalid move! Invalidmove
+f1 f3
+Server sent invalid move! Invalidmove
+d4 e5
+Server sent invalid move! Invalidmove
+d5 d4
+Server sent invalid move! Invalidmove
+c4 a3
+Server sent invalid move! Invalidmove
+e5 g3
+Server sent invalid move! Invalidmove
+g4 f6
+Server sent invalid move! Invalidmove
+f6 e8
+Server sent invalid move! Invalidmove
+d4 d1
+Server sent invalid move! Invalidmove
+g3 e1
+Server sent invalid move! Invalidmove
+e8 d6
+Server sent invalid move! Invalidmove
+f3 f4
+Server sent invalid move! Invalidmove
+e1 g3
+Server sent invalid move! Invalidmove
+e6 d5
+Server sent invalid move! Invalidmove
+b8 d8
+Server sent invalid move! Invalidmove
+d1 c1
+Server sent invalid move! Invalidmove
+d5 e6
+Server sent invalid move! Invalidmove
+g3 f2
+Server sent invalid move! Invalidmove
+f2 b6
+Server sent invalid move! Invalidmove
+d6 c4
+Server sent invalid move! Invalidmove
+b6 e3
+Server sent invalid move! Invalidmove
+c1 g1
+Server sent invalid move! Invalidmove
+d8 e8
+Server sent invalid move! Invalidmove
+f4 d4
+Server sent invalid move! Invalidmove
+d4 d2
+Server sent invalid move! Invalidmove
+g1 g8
+Server sent invalid move! Invalidmove
+g8 g4
+Server sent invalid move! Invalidmove
+d2 e2
+Server sent invalid move! Invalidmove
+e8 a8
+Server sent invalid move! Invalidmove
+a8 e8
+Server sent invalid move! Invalidmove
+g4 d4
+Server sent invalid move! Invalidmove
+d4 d2
+Server sent invalid move! Invalidmove
+e3 d4
+Server sent invalid move! Invalidmove
+d4 c3
+Server sent invalid move! Invalidmove
+c3 g7
+Server sent invalid move! Invalidmove
+g7 a1
+Server sent invalid move! Invalidmove
+c4 b2
+Server sent invalid move! Invalidmove
+e8 b8
+Server sent invalid move! Invalidmove
+f8 g7
+Server sent invalid move! Invalidmove
+a3 c2
+Server sent invalid move! Invalidmove
+b8 e8
+Server sent invalid move! Invalidmove
+d2 d3
+Server sent invalid move! Invalidmove
+g7 f6
+Server sent invalid move! Invalidmove
+e8 g8
+Server sent invalid move! Invalidmove
+d3 d1
+Server sent invalid move! Invalidmove
+e6 f5
+Server sent invalid move! Invalidmove
+f6 g6
+Server sent invalid move! Invalidmove
+g6 g5
+Server sent invalid move! Invalidmove
+f5 d3
+Server sent invalid move! Invalidmove
+d1 h1
+Server sent invalid move! Invalidmove
+c2 e1
+Server sent invalid move! Invalidmove
+e2 f2
+Server sent invalid move! Invalidmove
+g5 h5
+Server sent invalid move! Invalidmove
+g8 g4
+Server sent invalid move! Invalidmove
+g4 h3
+Server sent invalid move! Invalidmove
+e1 g2
+Server sent invalid move! Invalidmove
+h1 e1
+Server sent invalid move! Invalidmove
+f2 e2
+Server sent invalid move! Invalidmove
+h3 e3
+Server sent invalid move! Invalidmove
+e1 h1
+Server sent invalid move! Invalidmove
+e3 e6
+Server sent invalid move! Invalidmove
+h1 d1
+Server sent invalid move! Invalidmove
+e6 g6
+Server sent invalid move! Invalidmove
+d1 d2
+Server sent invalid move! Invalidmove
+g6 d6
+Server sent invalid move! Invalidmove
+d6 b4
+Server sent invalid move! Invalidmove
+e2 e6
+Server sent invalid move! Invalidmove
+b4 b5
+Server sent invalid move! Invalidmove
+b5 a6
+Server sent invalid move! Invalidmove
+d3 c4
+Server sent invalid move! Invalidmove
+d2 d1
+Server sent invalid move! Invalidmove
+h5 g4
+Server sent invalid move! Invalidmove
+a6 b5
+Server sent invalid move! Invalidmove
+b5 a4
+Server sent invalid move! Invalidmove
+a4 a6
+Server sent invalid move! Invalidmove
+e6 d6
+Server sent invalid move! Invalidmove
+d1 h1
+Server sent invalid move! Invalidmove
+c4 f1
+Server sent invalid move! Invalidmove
+f1 d3
+Server sent invalid move! Invalidmove
+g4 f3
+Server sent invalid move! Invalidmove
+h1 h4
+Server sent invalid move! Invalidmove
+f3 f4
+Server sent invalid move! Invalidmove
+a6 a2
+Server sent invalid move! Invalidmove
+a2 a4
+Server sent invalid move! Invalidmove
+d3 e4
+Server sent invalid move! Invalidmove
+a4 b3
+Server sent invalid move! Invalidmove
+h4 g4
+Server sent invalid move! Invalidmove
+b3 a3
+Server sent invalid move! Invalidmove
+d6 d2
+Server sent invalid move! Invalidmove
+a3 d3
+Server sent invalid move! Invalidmove
+g4 h4
+Server sent invalid move! Invalidmove
+f4 g4
+Server sent invalid move! Invalidmove
+g4 h3
+Server sent invalid move! Invalidmove
+h3 g3
+Server sent invalid move! Invalidmove
+d3 a6
+Server sent invalid move! Invalidmove
+h4 g4
+Server sent invalid move! Invalidmove
+d2 d1
+Server sent invalid move! Invalidmove
+a6 f6
+Server sent invalid move! Invalidmove
+d1 g1
+Server sent invalid move! Invalidmove
+f6 g7
+Server sent invalid move! Invalidmove
+g7 f8
+Server sent invalid move! Invalidmove
+e4 d3
+Server sent invalid move! Invalidmove
+g4 e4
+Server sent invalid move! Invalidmove
+b2 c4
+Server sent invalid move! Invalidmove
+e4 e6
+Server sent invalid move! Invalidmove
+e6 e2
+Server sent invalid move! Invalidmove
+a1 b2
+Server sent invalid move! Invalidmove
+d3 e4
+Server sent invalid move! Invalidmove
+b2 c1
+Server sent invalid move! Invalidmove
+e2 d2
+Server sent invalid move! Invalidmove
+g2 f4
+Server sent invalid move! Invalidmove
+e4 c2
+Server sent invalid move! Invalidmove
+g1 h1
+Server sent invalid move! Invalidmove
+f4 g2
+Server sent invalid move! Invalidmove
+d2 d5
+Server sent invalid move! Invalidmove
+d5 a5
+Server sent invalid move! Invalidmove
+c4 e5
+Server sent invalid move! Invalidmove
+e5 d3
+Server sent invalid move! Invalidmove
+a5 b5
+Server sent invalid move! Invalidmove
+d3 f4
+Server sent invalid move! Invalidmove
+c1 b2
+Server sent invalid move! Invalidmove
+f4 h3
+Server sent invalid move! Invalidmove
+h1 h2
+Server sent invalid move! Invalidmove
+g3 f2
+Server sent invalid move! Invalidmove
+c2 g6
+Server sent invalid move! Invalidmove
+b2 a3
+Server sent invalid move! Invalidmove
+b5 e5
+Server sent invalid move! Invalidmove
+f2 f3
+Server sent invalid move! Invalidmove
+f3 g4
+Server sent invalid move! Invalidmove
+g6 b1
+Server sent invalid move! Invalidmove
+e5 h5
+Server sent invalid move! Invalidmove
+h3 g5
+Server sent invalid move! Invalidmove
+g2 f4
+Server sent invalid move! Invalidmove
+f8 a8
+Server sent invalid move! Invalidmove
+g5 e6
+Server sent invalid move! Invalidmove
+e6 d8
+Server sent invalid move! Invalidmove
+a3 c5
+Server sent invalid move! Invalidmove
+c5 e3
+Server sent invalid move! Invalidmove
+e3 d4
+Server sent invalid move! Invalidmove
+b1 a2
+Server sent invalid move! Invalidmove
+g4 h4
+Server sent invalid move! Invalidmove
+a2 b1
+Server sent invalid move! Invalidmove
+f4 e6
+Server sent invalid move! Invalidmove
+a8 c8
+Server sent invalid move! Invalidmove
+d4 e5
+Server sent invalid move! Invalidmove
+h2 h3
+Server sent invalid move! Invalidmove
+b1 e4
+Server sent invalid move! Invalidmove
+e4 c2
+Server sent invalid move! Invalidmove
+e5 g7
+Server sent invalid move! Invalidmove
+h3 f3
+Server sent invalid move! Invalidmove
+f3 a3
+Server sent invalid move! Invalidmove
+h5 d5
+Server sent invalid move! Invalidmove
+g7 f6
+Server sent invalid move! Invalidmove
+h4 g4
+Server sent invalid move! Invalidmove
+c2 b3
+Server sent invalid move! Invalidmove
+e6 g7
+Server sent invalid move! Invalidmove
+g7 e8
+Server sent invalid move! Invalidmove
+d5 c5
+Server sent invalid move! Invalidmove
+f6 h4
+Server sent invalid move! Invalidmove
+b3 c2
+Server sent invalid move! Invalidmove
+c2 d1
+Server sent invalid move! Invalidmove
+a3 c3
+Server sent invalid move! Invalidmove
+d1 b3
+Server sent invalid move! Invalidmove
+c5 a5
+Server sent invalid move! Invalidmove
+c3 d3
+Server sent invalid move! Invalidmove
+g4 g5
+Server sent invalid move! Invalidmove
+b3 d1
+Server sent invalid move! Invalidmove
+g5 f5
+Server sent invalid move! Invalidmove
+f5 g5
+Server sent invalid move! Invalidmove
+g5 g4
+Server sent invalid move! Invalidmove
+d3 b3
+Server sent invalid move! Invalidmove
+a5 d5
+Server sent invalid move! Invalidmove
+d5 d6
+Server sent invalid move! Invalidmove
+b3 b4
+Server sent invalid move! Invalidmove
+h4 f2
+Server sent invalid move! Invalidmove
+e8 f6
+Server sent invalid move! Invalidmove
+d1 f3
+Server sent invalid move! Invalidmove
+b4 b5
+Server sent invalid move! Invalidmove
+b5 f5
+Server sent invalid move! Invalidmove
+f3 g2
+Server sent invalid move! Invalidmove
+g4 g3
+Server sent invalid move! Invalidmove
+f2 g1
+Server sent invalid move! Invalidmove
+f5 e5
+Server sent invalid move! Invalidmove
+g1 h2
+Server sent invalid move! Invalidmove
+g3 g4
+Server sent invalid move! Invalidmove
+g2 f1
+Server sent invalid move! Invalidmove
+d6 d3
+Server sent invalid move! Invalidmove
+d8 c6
+Server sent invalid move! Invalidmove
+d3 e3
+Server sent invalid move! Invalidmove
+f1 a6
+Server sent invalid move! Invalidmove
+f6 g8
+Server sent invalid move! Invalidmove
+g4 g5
+Server sent invalid move! Invalidmove
+e5 c5
+Server sent invalid move! Invalidmove
+c6 d8
+Server sent invalid move! Invalidmove
+e3 e4
+Server sent invalid move! Invalidmove
+h2 f4
+Server sent invalid move! Invalidmove
+c5 b5
+Server sent invalid move! Invalidmove
+e4 b4
+Server sent invalid move! Invalidmove
+b5 d5
+Server sent invalid move! Invalidmove
+c8 a8
+Server sent invalid move! Invalidmove
+d5 a5
+Server sent invalid move! Invalidmove
+a5 a2
+Server sent invalid move! Invalidmove
+f4 h2
+Server sent invalid move! Invalidmove
+d8 e6
+Server sent invalid move! Invalidmove
+h2 d6
+Server sent invalid move! Invalidmove
+b4 c4
+Server sent invalid move! Invalidmove
+c4 h4
+Server sent invalid move! Invalidmove
+d6 e5
+Server sent invalid move! Invalidmove
+a2 h2
+Server sent invalid move! Invalidmove
+h4 h3
+Server sent invalid move! Invalidmove
+a8 c8
+Server sent invalid move! Invalidmove
+e5 c3
+Server sent invalid move! Invalidmove
+e6 c5
+Server sent invalid move! Invalidmove
+h2 f2
+Server sent invalid move! Invalidmove
+c3 e1
+Server sent invalid move! Invalidmove
+a6 b5
+Server sent invalid move! Invalidmove
+b5 c4
+Server sent invalid move! Invalidmove
+h3 f3
+Server sent invalid move! Invalidmove
+e1 a5
+Server sent invalid move! Invalidmove
+f3 b3
+Server sent invalid move! Invalidmove
+g5 f5
+Server sent invalid move! Invalidmove
+f2 h2
+Server sent invalid move! Invalidmove
+f5 e4
+Server sent invalid move! Invalidmove
+c4 f1
+Server sent invalid move! Invalidmove
+f1 d3
+Server sent invalid move! Invalidmove
+h2 g2
+Server sent invalid move! Invalidmove
+g2 d2
+Server sent invalid move! Invalidmove
+e4 f3
+Server sent invalid move! Invalidmove
+f3 g4
+Server sent invalid move! Invalidmove
+d2 f2
+Server sent invalid move! Invalidmove
+c5 a6
+Server sent invalid move! Invalidmove
+d3 f5
+Server sent invalid move! Invalidmove
+g4 h3
+Server sent invalid move! Invalidmove
+h3 g3
+Server sent invalid move! Invalidmove
+c8 b8
+Server sent invalid move! Invalidmove
+b3 b2
+Server sent invalid move! Invalidmove
+f2 f3
+Server sent invalid move! Invalidmove
+b2 b4
+Server sent invalid move! Invalidmove
+b4 b2
+Server sent invalid move! Invalidmove
+g3 h4
+Server sent invalid move! Invalidmove
+b2 c2
+Server sent invalid move! Invalidmove
+f3 g3
+Server sent invalid move! Invalidmove
+h4 g4
+Server sent invalid move! Invalidmove
+c2 d2
+Server sent invalid move! Invalidmove
+a5 c3
+Server sent invalid move! Invalidmove
+g3 e3
+Server sent invalid move! Invalidmove
+g4 h3
+Server sent invalid move! Invalidmove
+f5 c2
+Server sent invalid move! Invalidmove
+e3 e2
+Server sent invalid move! Invalidmove
+c2 g6
+Server sent invalid move! Invalidmove
+c3 a5
+Server sent invalid move! Invalidmove
+d2 d6
+Server sent invalid move! Invalidmove
+g8 f6
+Server sent invalid move! Invalidmove
+d6 d5
+Server sent invalid move! Invalidmove
+a6 b4
+Server sent invalid move! Invalidmove
+d5 d3
+Server sent invalid move! Invalidmove
+d3 d2
+Server sent invalid move! Invalidmove
+a5 b6
+Server sent invalid move! Invalidmove
+d2 d3
+Server sent invalid move! Invalidmove
+b6 e3
+Server sent invalid move! Invalidmove
+g6 f5
+Server sent invalid move! Invalidmove
+d3 a3
+Server sent invalid move! Invalidmove
+b4 c6
+Server sent invalid move! Invalidmove
+e3 b6
+Server sent invalid move! Invalidmove
+e2 f2
+Server sent invalid move! Invalidmove
+b8 e8
+Server sent invalid move! Invalidmove
+f5 e6
+Server sent invalid move! Invalidmove
+f2 b2
+Server sent invalid move! Invalidmove
+b6 c5
+Server sent invalid move! Invalidmove
+c5 f2
+Server sent invalid move! Invalidmove
+e6 d5
+Server sent invalid move! Invalidmove
+a3 a6
+Server sent invalid move! Invalidmove
+e8 a8
+Server sent invalid move! Invalidmove
+f2 b6
+Server sent invalid move! Invalidmove
+b2 f2
+Server sent invalid move! Invalidmove
+a6 a1
+Server sent invalid move! Invalidmove
+h3 g3
+Server sent invalid move! Invalidmove
+a1 a5
+Server sent invalid move! Invalidmove
+d5 e4
+Server sent invalid move! Invalidmove
+f2 g2
+Server sent invalid move! Invalidmove
+g2 a2
+Server sent invalid move! Invalidmove
+a8 e8
+Server sent invalid move! Invalidmove
+e4 g6
+Server sent invalid move! Invalidmove
+c6 d4
+Server sent invalid move! Invalidmove
+g3 h3
+Server sent invalid move! Invalidmove
+a2 h2
+Server sent invalid move! Invalidmove
+d4 f3
+Server sent invalid move! Invalidmove
+h2 f2
+Server sent invalid move! Invalidmove
+h3 g2
+Server sent invalid move! Invalidmove
+f3 g5
+Server sent invalid move! Invalidmove
+g5 f3
+Server sent invalid move! Invalidmove
+a5 d5
+Server sent invalid move! Invalidmove
+d5 d1
+Server sent invalid move! Invalidmove
+b6 c5
+Server sent invalid move! Invalidmove
+c5 b6
+Server sent invalid move! Invalidmove
+g6 c2
+Server sent invalid move! Invalidmove
+e8 a8
+Server sent invalid move! Invalidmove
+d1 a1
+Server sent invalid move! Invalidmove
+f3 h4
+Server sent invalid move! Invalidmove
+f2 f3
+Server sent invalid move! Invalidmove
+c2 d1
+Server sent invalid move! Invalidmove
+a8 b8
+Server sent invalid move! Invalidmove
+a1 a2
+Server sent invalid move! Invalidmove
+b8 a8
+Server sent invalid move! Invalidmove
+d1 c2
+Server sent invalid move! Invalidmove
+a8 b8
+Server sent invalid move! Invalidmove
+f3 g3
+Server sent invalid move! Invalidmove
+b8 e8
+Server sent invalid move! Invalidmove
+g3 g6
+Server sent invalid move! Invalidmove
+g2 h3
+Server sent invalid move! Invalidmove
+c2 b1
+Server sent invalid move! Invalidmove
+b6 f2
+Server sent invalid move! Invalidmove
+a2 a1
+Server sent invalid move! Invalidmove
+f6 e4
+Server sent invalid move! Invalidmove
+e8 g8
+Server sent invalid move! Invalidmove
+g6 g4
+Server sent invalid move! Invalidmove
+f2 e1
+Server sent invalid move! Invalidmove
+e1 g3
+Server sent invalid move! Invalidmove
+e4 c5
+Server sent invalid move! Invalidmove
+b1 f5
+Server sent invalid move! Invalidmove
+a1 d1
+Server sent invalid move! Invalidmove
+c5 d3
+Server sent invalid move! Invalidmove
+d3 e5
+Server sent invalid move! Invalidmove
+d1 e1
+Server sent invalid move! Invalidmove
+e1 g1
+Server sent invalid move! Invalidmove
+g4 d4
+Server sent invalid move! Invalidmove
+g8 e8
+Server sent invalid move! Invalidmove
+e8 f8
+Server sent invalid move! Invalidmove
+d4 d3
+Server sent invalid move! Invalidmove
+d3 d2
+Server sent invalid move! Invalidmove
+e5 g6
+Server sent invalid move! Invalidmove
+d2 h2
+Server sent invalid move! Invalidmove
+h4 g2
+Server sent invalid move! Invalidmove
+g1 e1
+Server sent invalid move! Invalidmove
+g6 e5
+Server sent invalid move! Invalidmove
+f8 g7
+Server sent invalid move! Invalidmove
+g7 g8
+Server sent invalid move! Invalidmove
+e1 e4
+Server sent invalid move! Invalidmove
+g8 g6
+Server sent invalid move! Invalidmove
+e4 b4
+Server sent invalid move! Invalidmove
+b4 d4
+Server sent invalid move! Invalidmove
+g3 f4
+Server sent invalid move! Invalidmove
+g6 e6
+Server sent invalid move! Invalidmove
+e6 a6
+Server sent invalid move! Invalidmove
+e5 f3
+Server sent invalid move! Invalidmove
+f4 d6
+Server sent invalid move! Invalidmove
+a6 d3
+Server sent invalid move! Invalidmove
+d3 c3
+Server sent invalid move! Invalidmove
+c3 c5
+Server sent invalid move! Invalidmove
+c5 c6
+Server sent invalid move! Invalidmove
+d4 d2
+Server sent invalid move! Invalidmove
+f5 b1
+Server sent invalid move! Invalidmove
+c6 b6
+Server sent invalid move! Invalidmove
+d2 d4
+Server sent invalid move! Invalidmove
+d4 d1
+Server sent invalid move! Invalidmove
+b6 a5
+Server sent invalid move! Invalidmove
+a5 d5
+Server sent invalid move! Invalidmove
+b1 a2
+Server sent invalid move! Invalidmove
+h3 h4
+Server sent invalid move! Invalidmove
+d5 h5
+Server sent invalid move! Invalidmove
+d1 d3
+Server sent invalid move! Invalidmove
+h5 b5
+Server sent invalid move! Invalidmove
+b5 b2
+Server sent invalid move! Invalidmove
+h2 h3
+Server sent invalid move! Invalidmove
+b2 b1
+Server sent invalid move! Invalidmove
+a2 b3
+Server sent invalid move! Invalidmove
+d6 b4
+Server sent invalid move! Invalidmove
+b1 a1
+Server sent invalid move! Invalidmove
+a1 e1
+Server sent invalid move! Invalidmove
+f3 g5
+Server sent invalid move! Invalidmove
+b3 d1
+Server sent invalid move! Invalidmove
+d3 g3
+Server sent invalid move! Invalidmove
+g5 f3
+Server sent invalid move! Invalidmove
+b4 c5
+Server sent invalid move! Invalidmove
+c5 d4
+Server sent invalid move! Invalidmove
+d1 e2
+Server sent invalid move! Invalidmove
+e2 d3
+Server sent invalid move! Invalidmove
+e1 h1
+Server sent invalid move! Invalidmove
+d4 f2
+Server sent invalid move! Invalidmove
+d3 f5
+Server sent invalid move! Invalidmove
+h1 b1
+Server sent invalid move! Invalidmove
+b1 e1
+Server sent invalid move! Invalidmove
+e1 f1
+Server sent invalid move! Invalidmove
+f1 e2
+Server sent invalid move! f3g3
+g3 g7
+Server sent invalid move! f1f2
+g7 g3
+Server sent invalid move! Invalidmove
+f5 g4
+Server sent invalid move! Invalidmove
+f3 g1
+Server sent invalid move! Invalidmove
+g4 h5
+Server sent invalid move! Invalidmove
+g3 g8
+Server sent invalid move! Invalidmove
+g2 e3
+Server sent invalid move! Invalidmove
+f2 g3
+Server sent invalid move! Invalidmove
+g3 f2
+Server sent invalid move! Invalidmove
+e2 a2
+Server sent invalid move! Invalidmove
+a2 a6
+Server sent invalid move! Invalidmove
+f2 e1
+Server sent invalid move! Invalidmove
+a6 a3
+Server sent invalid move! Invalidmove
+h3 g3
+Server sent invalid move! Invalidmove
+e3 g2
+Server sent invalid move! Invalidmove
+g3 g7
+Server sent invalid move! Invalidmove
+h4 g3
+Server sent invalid move! Invalidmove
+g2 h4
+Server sent invalid move! Invalidmove
+g3 g2
+Server sent invalid move! Invalidmove
+g8 c8
+Server sent invalid move! Invalidmove
+h4 g6
+Server sent invalid move! Invalidmove
+h5 e2
+Server sent invalid move! Invalidmove
+e2 d3
+Server sent invalid move! Invalidmove
+a3 c1
+Server sent invalid move! Invalidmove
+c1 b1
+Server sent invalid move! Invalidmove
+d3 e4
+Server sent invalid move! Invalidmove
+g6 h8
+Server sent invalid move! Invalidmove
+e4 d3
+Server sent invalid move! Invalidmove
+d3 e2
+Server sent invalid move! Invalidmove
+b1 d3
+Server sent invalid move! Invalidmove
+d3 f5
+Server sent invalid move! Invalidmove
+g1 h3
+Server sent invalid move! Invalidmove
+f5 g5
+Server sent invalid move! Invalidmove
+g5 a5
+Server sent invalid move! Invalidmove
+e2 d3
+Server sent invalid move! Invalidmove
+a5 b4
+Server sent invalid move! Invalidmove
+b4 e4
+Server sent invalid move! Invalidmove
+e4 f5
+Server sent invalid move! Invalidmove
+e1 d2
+Server sent invalid move! Invalidmove
+g7 g6
+Server sent invalid move! Invalidmove
+g2 f3
+Server sent invalid move! Invalidmove
+f5 c5
+Server sent invalid move! Invalidmove
+c5 g5
+Server sent invalid move! Invalidmove
+g6 a6
+Server sent invalid move! Invalidmove
+g5 e3
+Server sent invalid move! Invalidmove
+h3 f2
+Server sent invalid move! Invalidmove
+d2 a5
+Server sent invalid move! Invalidmove
+f2 e4
+Server sent invalid move! Invalidmove
+a6 f6
+Server sent invalid move! Invalidmove
+e3 g5
+Server sent invalid move! Invalidmove
+d3 c2
+Server sent invalid move! Invalidmove
+c8 e8
+Server sent invalid move! Invalidmove
+f6 f5
+Server sent invalid move! Invalidmove
+c2 b3
+Server sent invalid move! Invalidmove
+f3 g4
+Server sent invalid move! Invalidmove
+e4 g3
+Server sent invalid move! Invalidmove
+f5 e5
+Server sent invalid move! Invalidmove
+e5 e6
+Server sent invalid move! Invalidmove
+b3 a2
+Server sent invalid move! Invalidmove
+g5 g6
+Server sent invalid move! Invalidmove
+a5 c3
+Server sent invalid move! Invalidmove
+c3 f6
+Server sent invalid move! Invalidmove
+f6 g5
+Server sent invalid move! Invalidmove
+g6 g8
+Server sent invalid move! Invalidmove
+e8 c8
+Server sent invalid move! Invalidmove
+e6 e2
+Server sent invalid move! Invalidmove
+h8 g6
+Server sent invalid move! Invalidmove
+c8 b8
+Server sent invalid move! Invalidmove
+a2 e6
+Server sent invalid move! Invalidmove
+e2 d2
+Server sent invalid move! Invalidmove
+d2 f2
+Server sent invalid move! Invalidmove
+g5 d2
+Server sent invalid move! Invalidmove
+g3 e2
+Server sent invalid move! Invalidmove
+b8 c8
+Server sent invalid move! Invalidmove
+g4 g3
+Server sent invalid move! Invalidmove
+e2 f4
+Server sent invalid move! Invalidmove
+g3 h2
+d4 e4
+Server sent invalid move! Invalidmove
+f4 g2
+Server sent invalid move! Invalidmove
+g2 f4
+Server sent invalid move! Invalidmove
+g6 h4
+Server sent invalid move! Invalidmove
+g8 h8
+Server sent invalid move! Invalidmove
+h8 e5
+Server sent invalid move! Invalidmove
+d2 c1
+Server sent invalid move! Invalidmove
+f4 h5
+Server sent invalid move! Invalidmove
+f2 a2
+Server sent invalid move! Invalidmove
+a2 g2
+Server sent invalid move! Invalidmove
+h4 f5
+Server sent invalid move! Invalidmove
+e6 a2
+Server sent invalid move! Invalidmove
+g2 f2
+Server sent invalid move! Invalidmove
+f2 f1
+Server sent invalid move! Invalidmove
+e5 e6
+Server sent invalid move! Invalidmove
+h2 g3
+Server sent invalid move! Invalidmove
+g3 f4
+Server sent invalid move! Invalidmove
+e6 g6
+Server sent invalid move! Invalidmove
+f5 g7
+Server sent invalid move! Invalidmove
+f4 e5
+Server sent invalid move! Invalidmove
+c8 e8
+Server sent invalid move! Invalidmove
+c1 b2
+f2 g2
+a2 a3
+a7 a6
+e2 e4
+a6 a5
+d1 h5
+a5 a4
+f1 c4
+a8 a5
+a8 a5
+h5 f7
