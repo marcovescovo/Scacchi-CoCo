@@ -6,7 +6,7 @@ use rand::seq::SliceRandom;
 use rand::SeedableRng;
 use tokio::io::{split, AsyncBufReadExt, AsyncWriteExt, BufReader, DuplexStream};
 use tracing::error;
-use std::fs;
+
 #[derive(Debug)]
 pub(crate) struct Bot {}
 

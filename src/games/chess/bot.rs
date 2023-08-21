@@ -3,11 +3,6 @@ use async_trait::async_trait;
 use tokio::io::{split, AsyncBufReadExt, AsyncWriteExt, BufReader, DuplexStream};
 use tracing::error;
 
-use std::fs;
-use std::io;
-use std::fs::OpenOptions;
-use std::io::prelude::*;
-
 use super::color::Color;
 use super::chess_move::MoveType;
 use super::board::ChessBoard;
@@ -26,15 +21,6 @@ impl game::Bot for Bot {
         // The DuplexStream is split into separate reader and writer halves (input and output, respectively). This allows the bot to read data from the server and send responses back.
         let (input, mut output) = split(stream); 
         let mut input = BufReader::new(input);
-        
-        // Print the content of the stream before parsing the player number
-        //loop {
-        //    let input_line = lnin!(input);
-        //    if input_line.is_empty() {
-        //        break;
-        //    }
-        //    fs::write("src/games/chess/input.txt", input_line);
-        //}
 
         // The bot reads some initial data from the server, such as its name, the opponent's name, and its player number (me).
         lnin!(input); // Read my name
@@ -42,20 +28,8 @@ impl game::Bot for Bot {
         let me: usize = lnin!(input).parse().expect("Cannot parse player number");
         let mut turn = 0;
 
-        let mut file = OpenOptions::new()
-        .write(true)
-        .append(true)
-        .open("src/games/chess/input.txt")
-        .unwrap();
-
         // The bot enters a game loop that continues until the game is finished (determined by the finished() method of the Board).
         while !board.check_king_mate(current_color) {
-
-            let mut msg = format!("{}-{}", turn, me);
-    
-            if let Err(e) = writeln!(file, "{}", msg) {
-                eprintln!("Couldn't write to file: {}", e);
-            }
 
             if turn == 0 {
                 let mut current_color = Color::White;
@@ -70,24 +44,15 @@ impl game::Bot for Bot {
             // Inside the game loop, when it is the bot's turn (indicated by turn == me), it receives a roll value from the server. It then generates a move based on the board.valid_moves(me, roll) method. The bot selects a random valid move using choose() from the valid_moves slice, and then it sends its move to the server using lnout!(output, format!("{}", x)).
             if turn == me {
                 let mut user_input = String::new();
-                let stdin = io::stdin(); // We get `Stdin` here.
 
                 while !board.check_move(opt, current_color) {
                     trimmed = MoveType::randomMove();
-    
-                    if let Err(e) = writeln!(file, "{}", trimmed) {
-                        eprintln!("Couldn't write to file: {}", e);
-                    }
                     opt = MoveType::parse(&trimmed);
                 } 
                 board = board.apply_move_type(opt.unwrap());
                 lnout!(output, format!("{}", trimmed));
                 
             } else {
-    
-                if let Err(e) = writeln!(file, "POPOPOPOPOPOPO") {
-                    eprintln!("Couldn't write to file: {}", e);
-                }
             // When it is the opponent's turn (turn != me), the bot reads the opponent's move from the server. If the opponent sends "RETIRE," the game breaks out of the loop, otherwise, it parses the move and updates the board accordingly.
                 trimmed = lnin!(input)
                 .trim()

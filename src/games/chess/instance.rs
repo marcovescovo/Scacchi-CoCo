@@ -12,9 +12,6 @@ use tracing::warn;
 use super::color::Color;
 use super::board::ChessBoard;
 use super::chess_move::MoveType;
-use std::io::{stdin, BufRead};
-use std::fs::OpenOptions;
-use std::io::prelude::*;
 
 // Define a struct named 'Instance' to hold game-related parameters
 #[derive(Debug)]
@@ -73,12 +70,6 @@ impl game::Instance for Instance {
         let mut current_color = Color::White;
         let mut retired = 0;
         let mut draw = 0;
-
-        let mut file = OpenOptions::new()
-        .write(true)
-        .append(true)
-        .open("src/games/chess/input_player.txt")
-        .unwrap();
         
         // Main game loop
         while !board.check_king_mate(current_color) && retired == 0 && draw != 2 {
@@ -96,22 +87,11 @@ impl game::Instance for Instance {
             match timeout(self.timeout, p[turn].input.read_line(&mut buffer)).await {
                 Ok(n) => {
                     trimmed = buffer.trim().to_string();
-                    //let ch = trimmed.chars().nth(0).unwrap();
-                    //if ch == turn.to_char() {
-                    //    turn = 1 - turn;
-                    //    current_color = refreshColor(turn);
-                    //    trimmed.remove(0);
-                    //}
                 }
                 Err(err) => {
                     trimmed = buffer.trim().to_string();
                 }
             };
-
-    
-            if let Err(e) = writeln!(file, "{}", trimmed) {
-                eprintln!("Couldn't write to file: {}", e);
-            }
             
             // Handle the draw condition
             if draw == 1 {
@@ -143,6 +123,7 @@ impl game::Instance for Instance {
                         lnout2!(p[turn].output, "DRAW");
                         lnout2!(p[1 - turn].output, "DRAW");
                         lnout2!(spectators, "DRAW");
+                        turn = 1 - turn;
                     } else {
                         lnout2!(p[turn].output, "Invalid move");
                     }
@@ -162,12 +143,14 @@ impl game::Instance for Instance {
         }
         
         // Game ending messages
-        lnout2!(p[1 - turn].output, "CHECKMATE! You win!");
-        lnout2!(p[turn].output, "CHECKMATE! You loose!");
-        if turn == 0 {
-            lnout2!(spectators, "CHECKMATE! Black wins!");
-        } else {
-            lnout2!(spectators, "CHECKMATE! White wins!");
-        };
+        if draw != 2 {
+            lnout2!(p[1 - turn].output, "CHECKMATE! You win!");
+            lnout2!(p[turn].output, "CHECKMATE! You loose!");
+            if turn == 0 {
+                lnout2!(spectators, "CHECKMATE! Black wins!");
+            } else {
+                lnout2!(spectators, "CHECKMATE! White wins!");
+            };
+        }
     }
 }
