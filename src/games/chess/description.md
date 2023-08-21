@@ -1,117 +1,46 @@
-# chess (Royal Game of Ur)
+# Chess 
 
-The Royal Game of Ur is one the oldest board games, dating back to at least 5000 years ago. [This excellent video](https://www.youtube.com/watch?v=WZskjLq040I) gives a thorough introduction to this game, explaining its rules from [3:41](https://www.youtube.com/watch?v=WZskjLq040I&t=221s) to 5:10.
+Chess is a two-player, abstract strategy board game that represents medieval warfare on an 8x8 board with alternating light and dark squares. Opposing pieces, traditionally designated White and Black, are initially lined up on either side. Each type of piece has a unique form of movement and capturing occurs when a piece, via its movement, occupies the square of an opposing piece. Players take turns moving one of their pieces in an attempt to capture, attack, defend, or develop their positions. Chess games can end in checkmate, resignation, or one of several types of draws. Chess is one of the most popular games in the world, played by millions of people worldwide at home, in clubs, online, by correspondence, and in tournaments. Between two highly skilled players, chess can be a beautiful thing to watch, and a game can provide great entertainment even for novices. There is also a large literature of books and periodicals about chess, typically featuring games and commentary by chess masters.
 
-{{#include royalur-board.svg}}
+The game has its origins in the Indian game Chaturanga, and became Shatranj when introduced to the Persians. The current form of the game emerged in the second half of the 15th century when the Persians brought Shatranj to Southern Europe. The tradition of organized competitive chess began in the 16th century. The first official World Chess Champion, Wilhelm Steinitz, claimed his title in 1886. The current World Champion is Ding Liren, China. Chess is also a recognized sport of the International Olympic Committee.
 
-The Royal Game of Ur is a race game. Each player has 7 tokens, and it wants to send all tokens to the end of the track before the opponent does. Each player has a track of 14 cells (not counting start and end), with the cells from the fifth to the twelfth (included) shared between players. The game is played in turns alternating between the two players until one of them make all of their tokens exit the track, winning the game.
-
-At the start of its turn, the player flips 4 two-sided coins, which will give a number \\( n \\) of heads. The player must then choose a token to move \\( n \\) cells forward. For a token, to exit the track, the exact number of cells remaining is needed (e.g. if a token is on the fourteenth cell, only a \\( 1 \\) can make it exit the track). If no moves are possible for the player (such as when getting a \\( 0 \\), but it's not the only such case) then it skips the turn, giving it to the other player.
-
-The player cannot move a token in a cell already occupied by one of its token, however it can move it in a cell occupied by an opponent's token. In this case, the opponent's token gets instantly sent back to the opponent's track start, and the cell becomes occupied by the player token.
-
-If a token lands on the fourth, eighth or fourteenth cell, the player gets to play also for the next turn, otherwise the opponent's turn begins. A token cannot land on one of these 3 cells if it's already occupied (even by an opponent's token).
 
 ## Implementation details
-At the beginning of the game both players will receive 3 lines:
+At the beginning of the game it will be generated the board and both players receive 16 pieces:
 
-- the first line contains the name of the first player;
-- the second line contains the name of the second player;
-- the third line contains `0` if the receiver is the first player, `1` otherwise.
+- the first line of the board contains 2 Rooks (R), 2 Knights (N), 2 Bishops (B), Queen (Q) and King (K);
+- the second line of the board contains all 8 pawns.
 
-Spectators will only receive the first two lines. In the first turn the first player will play.
 
-Each turn is subdivided into two sub-turns:
+The white player starts the turn and, in order to move a piece, he has to digits into the console the two coordinates of a specific piece (for example a2 a3).
+After this, it the move is correct, the board will be updated and the turn switch to the black player. 
+The game continue until one player checkmates the other or if one player propose a draw (si può ancora fare dopo le modifiche al bot?).
 
-- `roll`;
-- `move`.
+### Special moves
+In chess there are 3 special moves which requires some explanation:
 
-In the `roll` sub-turn both players and spectators will receive a single line containing 4 space-separated binary digits. The `1`s represent a head, the `0` a tail. The amount \\( n \\) is calculated as the number of `1`s obtained.
+- **castling x1 x2 y1 y2**: It consists of moving the king two squares toward a rook on the same rank and then moving the rook to the square that the king passed over. Castling is permitted only if neither the king nor the rook has previously moved.
+- **enpassant x1 x2**: It describes the capture by a pawn of an enemy pawn on the same rank and an adjacent file that has just made an initial two-square advance.
+- **promotion x1 x2 pieceType**: It is the replacement of a pawn with a new piece when the pawn is moved to its last rank. The player replaces the pawn immediately with a queen, rook, bishop, or knight of the same color.
 
-If the player has no valid moves that move a token \\( n \\) cells forward, the the `move` sub-turn is skipped and the `roll` sub-turn immediately starts for the other player.
 
-Otherwise, the `move` sub-turn begins. Each player has `7` tokens, numbered from `0` to `6` (inclusive). The player playing in this turn must write a single line with the number of the token he wants to move forward \\( n \\) cells, ended with a `LF` (aka `\n`). The move must be valid. If the move is valid, the other player and the spectators will receive the sent number, otherwise they will receive `RETIRE`, which indicates that the game has ended with a win for the opponent.
-
-If the token lands on the fourth, eighth or fourteenth cell than the player has another turn, thus moving again to the `roll` sub-turn. Otherwise, the turns pass to the opponent, which begins its `roll` turn.
 
 ### Example
-This is an example of the streams of two players, `PlayerA` and `PlayerB`, and the spectators for an hypothetical game.
+This is an example of the streams of two players, `White Player` and `Black Player` for an hypothetical game.
 
-Note that all lines prepended with a `>` indicate that the line is sent rather than received.
 
-Stream of `PlayerA`:
-```text
-PlayerA
-PlayerB
-0
-0 0 1 1
->3
-1 1 1 1
-0
-1 0 1 0
-0
-0 1 0 0
->3
-0 0 0 0
-1 0 1 1
->3
-0 0 1 1
-0
-0 0 0 1
->4
-1 0 1 0
-RETIRE
+Stream of `White Player`:
+```
+INSERT TODO
 ```
 
-Stream of `PlayerB`:
-```text
-PlayerA
-PlayerB
-1
-0 0 1 1
-3
-1 1 1 1
->0
-1 0 1 0
->0
-0 1 0 0
-3
-0 0 0 0
-1 0 1 1
-3
-0 0 1 1
->0
-0 0 0 1
-4
-1 0 1 0
->2
+Stream of `Black Player`:
 ```
-
-Stream of spectators:
-```text
-PlayerA
-PlayerB
-0 0 1 1
-3
-1 1 1 1
-0
-1 0 1 0
-0
-0 1 0 0
-3
-0 0 0 0
-1 0 1 1
-3
-0 0 1 1
-0
-0 0 0 1
-4
-1 0 1 0
-RETIRE
+INSERT TODO
 ```
 
 
-## Game parameters
+#### Game parameters (da testare e valutare se ci serve)
 There's only one game-specific parameter:
 
 - `pace`: the minimum number of seconds between turns (default: `1.5`, min: `0`, max: `30`).
