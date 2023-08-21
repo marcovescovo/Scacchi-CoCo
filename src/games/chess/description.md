@@ -6,18 +6,18 @@ The game has its origins in the Indian game Chaturanga, and became Shatranj when
 
 
 ## Implementation details
-At the beginning of the game it will be generated the board and both players receive 16 pieces:
+At the beginning of the game the board will be generated and both players receive the 16 starting pieces:
 
 - the first line of the board contains 2 Rooks (R), 2 Knights (N), 2 Bishops (B), Queen (Q) and King (K);
 - the second line of the board contains all 8 pawns.
 
 
-The white player starts the turn and, in order to move a piece, he has to digits into the console the two coordinates of a specific piece (for example a2 a3).
-After this, it the move is correct, the board will be updated and the turn switch to the black player. 
-The game continue until one player checkmates the other or if one player propose a draw (si può ancora fare dopo le modifiche al bot?).
+The white player starts the turn and, in order to move a piece, he has to type in the console the two coordinates, starting tile and arrival tile, of a specific piece (for example a2 a3).
+After this, if the move is correct, the board updates and the turn switches to the other player. 
+The game continues until one player checkmates the other or one player proposes a draw or retires.
 
 ### Special moves
-In chess there are 3 special moves which requires some explanation:
+In chess there are 3 special moves which require some explanation:
 
 - **castling x1 x2 y1 y2**: It consists of moving the king two squares toward a rook on the same rank and then moving the rook to the square that the king passed over. Castling is permitted only if neither the king nor the rook has previously moved.
 - **enpassant x1 x2**: It describes the capture by a pawn of an enemy pawn on the same rank and an adjacent file that has just made an initial two-square advance.
@@ -31,12 +31,61 @@ This is an example of the streams of two players, `White Player` and `Black Play
 
 Stream of `White Player`:
 ```
-INSERT TODO
+> Joined "player1's game" (chess)
+> Waiting for game to start
+> Game has 0 spectators and 1/2 (0 bots) connected player: ["player2"]
+> Game has 0 spectators and 2/2 (0 bots) connected players: ["player2", "player1"]
+> Game started
+player2
+player1
+1
+a2 a3
+a7 a6
+a7 a6
+e2 e4
+a6 a5
+a6 a5
+d1 h5
+a5 a4
+a5 a4
+f1 c4
+a8 a5
+a8 a5
+h5 f7
+CHECKMATE! You loose!
+> Game ended
+> Press ENTER to exit
 ```
 
 Stream of `Black Player`:
 ```
-INSERT TODO
+> Joined "player1's game" (chess)
+> Waiting for game to start
+> Game has 0 spectators and 1/2 (0 bots) connected player: ["player2"]
+> Game has 0 spectators and 2/2 (0 bots) connected players: ["player2", "player1"]
+> Game started
+player2
+player1
+0
+a2 a3
+a2 a3
+a7 a6
+e2 e4
+e2 e4
+a6 a5
+d1 h5
+d1 h5
+a5 a4
+f1 c4
+f1 c4
+a8 a5
+a8 a5
+Invalid move
+h5 f7
+h5 f7
+CHECKMATE! You win!
+> Game ended
+> Press ENTER to exit
 ```
 
 
