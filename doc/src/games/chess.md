@@ -1,1 +1,1 @@
-src/games/chess/description.md
+../../../src/games/chess/description.md
