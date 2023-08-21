@@ -89,7 +89,7 @@ CHECKMATE! You win!
 ```
 
 
-#### Game parameters (da testare e valutare se ci serve)
+#### Game parameters
 There's only one game-specific parameter:
 
 - `pace`: the minimum number of seconds between turns (default: `1.5`, min: `0`, max: `30`).
