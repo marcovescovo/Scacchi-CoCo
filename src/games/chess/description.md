@@ -29,7 +29,7 @@ In chess there are 3 special moves which require some explanation:
 This is an example of the streams of two players, `White Player` and `Black Player` for an hypothetical game.
 
 
-Stream of `White Player`:
+Stream of `Black Player`:
 ```
 > Joined "player1's game" (chess)
 > Waiting for game to start
@@ -57,7 +57,7 @@ CHECKMATE! You loose!
 > Press ENTER to exit
 ```
 
-Stream of `Black Player`:
+Stream of `White Player`:
 ```
 > Joined "player1's game" (chess)
 > Waiting for game to start
